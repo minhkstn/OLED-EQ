@@ -1,0 +1,4454 @@
+{
+    "psnr": [
+        {
+            "n": 1,
+            "mse_avg": 4.13,
+            "mse_y": 5.19,
+            "mse_u": 1.79,
+            "mse_v": 2.25,
+            "psnr_avg": 41.97,
+            "psnr_y": 40.98,
+            "psnr_u": 45.61,
+            "psnr_v": 44.6
+        },
+        {
+            "n": 2,
+            "mse_avg": 6.97,
+            "mse_y": 8.96,
+            "mse_u": 2.55,
+            "mse_v": 3.45,
+            "psnr_avg": 39.7,
+            "psnr_y": 38.61,
+            "psnr_u": 44.07,
+            "psnr_v": 42.75
+        },
+        {
+            "n": 3,
+            "mse_avg": 6.64,
+            "mse_y": 8.67,
+            "mse_u": 2.13,
+            "mse_v": 3.02,
+            "psnr_avg": 39.91,
+            "psnr_y": 38.75,
+            "psnr_u": 44.85,
+            "psnr_v": 43.33
+        },
+        {
+            "n": 4,
+            "mse_avg": 8.65,
+            "mse_y": 11.26,
+            "mse_u": 2.86,
+            "mse_v": 4.04,
+            "psnr_avg": 38.76,
+            "psnr_y": 37.62,
+            "psnr_u": 43.57,
+            "psnr_v": 42.07
+        },
+        {
+            "n": 5,
+            "mse_avg": 7.97,
+            "mse_y": 10.5,
+            "mse_u": 2.38,
+            "mse_v": 3.43,
+            "psnr_avg": 39.12,
+            "psnr_y": 37.92,
+            "psnr_u": 44.36,
+            "psnr_v": 42.78
+        },
+        {
+            "n": 6,
+            "mse_avg": 8.97,
+            "mse_y": 11.75,
+            "mse_u": 2.89,
+            "mse_v": 3.94,
+            "psnr_avg": 38.6,
+            "psnr_y": 37.43,
+            "psnr_u": 43.53,
+            "psnr_v": 42.18
+        },
+        {
+            "n": 7,
+            "mse_avg": 8.38,
+            "mse_y": 11.13,
+            "mse_u": 2.42,
+            "mse_v": 3.33,
+            "psnr_avg": 38.9,
+            "psnr_y": 37.67,
+            "psnr_u": 44.29,
+            "psnr_v": 42.91
+        },
+        {
+            "n": 8,
+            "mse_avg": 8.76,
+            "mse_y": 11.51,
+            "mse_u": 2.82,
+            "mse_v": 3.69,
+            "psnr_avg": 38.71,
+            "psnr_y": 37.52,
+            "psnr_u": 43.63,
+            "psnr_v": 42.46
+        },
+        {
+            "n": 9,
+            "mse_avg": 8.33,
+            "mse_y": 11.14,
+            "mse_u": 2.34,
+            "mse_v": 3.06,
+            "psnr_avg": 38.93,
+            "psnr_y": 37.66,
+            "psnr_u": 44.44,
+            "psnr_v": 43.27
+        },
+        {
+            "n": 10,
+            "mse_avg": 9.71,
+            "mse_y": 12.92,
+            "mse_u": 2.86,
+            "mse_v": 3.75,
+            "psnr_avg": 38.26,
+            "psnr_y": 37.02,
+            "psnr_u": 43.56,
+            "psnr_v": 42.4
+        },
+        {
+            "n": 11,
+            "mse_avg": 7.9,
+            "mse_y": 10.56,
+            "mse_u": 2.24,
+            "mse_v": 2.9,
+            "psnr_avg": 39.16,
+            "psnr_y": 37.89,
+            "psnr_u": 44.63,
+            "psnr_v": 43.5
+        },
+        {
+            "n": 12,
+            "mse_avg": 8.73,
+            "mse_y": 11.58,
+            "mse_u": 2.63,
+            "mse_v": 3.4,
+            "psnr_avg": 38.72,
+            "psnr_y": 37.49,
+            "psnr_u": 43.93,
+            "psnr_v": 42.82
+        },
+        {
+            "n": 13,
+            "mse_avg": 6.33,
+            "mse_y": 8.35,
+            "mse_u": 2.03,
+            "mse_v": 2.57,
+            "psnr_avg": 40.11,
+            "psnr_y": 38.91,
+            "psnr_u": 45.05,
+            "psnr_v": 44.03
+        },
+        {
+            "n": 14,
+            "mse_avg": 8.51,
+            "mse_y": 11.27,
+            "mse_u": 2.6,
+            "mse_v": 3.36,
+            "psnr_avg": 38.83,
+            "psnr_y": 37.61,
+            "psnr_u": 43.97,
+            "psnr_v": 42.86
+        },
+        {
+            "n": 15,
+            "mse_avg": 6.97,
+            "mse_y": 9.25,
+            "mse_u": 2.07,
+            "mse_v": 2.73,
+            "psnr_avg": 39.7,
+            "psnr_y": 38.47,
+            "psnr_u": 44.97,
+            "psnr_v": 43.77
+        },
+        {
+            "n": 16,
+            "mse_avg": 7.36,
+            "mse_y": 9.6,
+            "mse_u": 2.53,
+            "mse_v": 3.23,
+            "psnr_avg": 39.46,
+            "psnr_y": 38.31,
+            "psnr_u": 44.11,
+            "psnr_v": 43.03
+        },
+        {
+            "n": 17,
+            "mse_avg": 6.18,
+            "mse_y": 7.83,
+            "mse_u": 2.5,
+            "mse_v": 3.26,
+            "psnr_avg": 40.22,
+            "psnr_y": 39.2,
+            "psnr_u": 44.15,
+            "psnr_v": 42.99
+        },
+        {
+            "n": 18,
+            "mse_avg": 4.06,
+            "mse_y": 5.11,
+            "mse_u": 1.72,
+            "mse_v": 2.22,
+            "psnr_avg": 42.04,
+            "psnr_y": 41.05,
+            "psnr_u": 45.78,
+            "psnr_v": 44.66
+        },
+        {
+            "n": 19,
+            "mse_avg": 5.99,
+            "mse_y": 7.72,
+            "mse_u": 2.16,
+            "mse_v": 2.93,
+            "psnr_avg": 40.35,
+            "psnr_y": 39.26,
+            "psnr_u": 44.78,
+            "psnr_v": 43.46
+        },
+        {
+            "n": 20,
+            "mse_avg": 5.21,
+            "mse_y": 6.73,
+            "mse_u": 1.83,
+            "mse_v": 2.51,
+            "psnr_avg": 40.96,
+            "psnr_y": 39.85,
+            "psnr_u": 45.5,
+            "psnr_v": 44.14
+        },
+        {
+            "n": 21,
+            "mse_avg": 6.1,
+            "mse_y": 7.82,
+            "mse_u": 2.29,
+            "mse_v": 3.05,
+            "psnr_avg": 40.27,
+            "psnr_y": 39.2,
+            "psnr_u": 44.53,
+            "psnr_v": 43.28
+        },
+        {
+            "n": 22,
+            "mse_avg": 5.4,
+            "mse_y": 6.98,
+            "mse_u": 1.89,
+            "mse_v": 2.59,
+            "psnr_avg": 40.81,
+            "psnr_y": 39.69,
+            "psnr_u": 45.37,
+            "psnr_v": 43.99
+        },
+        {
+            "n": 23,
+            "mse_avg": 5.05,
+            "mse_y": 6.35,
+            "mse_u": 2.13,
+            "mse_v": 2.74,
+            "psnr_avg": 41.1,
+            "psnr_y": 40.1,
+            "psnr_u": 44.85,
+            "psnr_v": 43.75
+        },
+        {
+            "n": 24,
+            "mse_avg": 5.53,
+            "mse_y": 7.15,
+            "mse_u": 1.93,
+            "mse_v": 2.65,
+            "psnr_avg": 40.7,
+            "psnr_y": 39.59,
+            "psnr_u": 45.27,
+            "psnr_v": 43.89
+        },
+        {
+            "n": 25,
+            "mse_avg": 6.31,
+            "mse_y": 8.09,
+            "mse_u": 2.38,
+            "mse_v": 3.14,
+            "psnr_avg": 40.13,
+            "psnr_y": 39.05,
+            "psnr_u": 44.37,
+            "psnr_v": 43.16
+        },
+        {
+            "n": 26,
+            "mse_avg": 5.23,
+            "mse_y": 6.76,
+            "mse_u": 1.86,
+            "mse_v": 2.5,
+            "psnr_avg": 40.94,
+            "psnr_y": 39.83,
+            "psnr_u": 45.44,
+            "psnr_v": 44.16
+        },
+        {
+            "n": 27,
+            "mse_avg": 6.79,
+            "mse_y": 8.78,
+            "mse_u": 2.43,
+            "mse_v": 3.22,
+            "psnr_avg": 39.81,
+            "psnr_y": 38.7,
+            "psnr_u": 44.28,
+            "psnr_v": 43.05
+        },
+        {
+            "n": 28,
+            "mse_avg": 4.43,
+            "mse_y": 5.58,
+            "mse_u": 1.85,
+            "mse_v": 2.41,
+            "psnr_avg": 41.67,
+            "psnr_y": 40.66,
+            "psnr_u": 45.46,
+            "psnr_v": 44.3
+        },
+        {
+            "n": 29,
+            "mse_avg": 6.8,
+            "mse_y": 8.76,
+            "mse_u": 2.43,
+            "mse_v": 3.3,
+            "psnr_avg": 39.81,
+            "psnr_y": 38.7,
+            "psnr_u": 44.28,
+            "psnr_v": 42.95
+        },
+        {
+            "n": 30,
+            "mse_avg": 4.43,
+            "mse_y": 5.55,
+            "mse_u": 1.87,
+            "mse_v": 2.52,
+            "psnr_avg": 41.66,
+            "psnr_y": 40.69,
+            "psnr_u": 45.41,
+            "psnr_v": 44.11
+        },
+        {
+            "n": 31,
+            "mse_avg": 6.22,
+            "mse_y": 7.93,
+            "mse_u": 2.41,
+            "mse_v": 3.2,
+            "psnr_avg": 40.19,
+            "psnr_y": 39.14,
+            "psnr_u": 44.31,
+            "psnr_v": 43.09
+        },
+        {
+            "n": 32,
+            "mse_avg": 4.34,
+            "mse_y": 5.47,
+            "mse_u": 1.8,
+            "mse_v": 2.35,
+            "psnr_avg": 41.75,
+            "psnr_y": 40.75,
+            "psnr_u": 45.58,
+            "psnr_v": 44.42
+        },
+        {
+            "n": 33,
+            "mse_avg": 6.26,
+            "mse_y": 7.94,
+            "mse_u": 2.43,
+            "mse_v": 3.33,
+            "psnr_avg": 40.17,
+            "psnr_y": 39.13,
+            "psnr_u": 44.27,
+            "psnr_v": 42.91
+        },
+        {
+            "n": 34,
+            "mse_avg": 5.95,
+            "mse_y": 7.57,
+            "mse_u": 2.31,
+            "mse_v": 3.12,
+            "psnr_avg": 40.39,
+            "psnr_y": 39.34,
+            "psnr_u": 44.5,
+            "psnr_v": 43.19
+        },
+        {
+            "n": 35,
+            "mse_avg": 5.65,
+            "mse_y": 6.94,
+            "mse_u": 2.58,
+            "mse_v": 3.55,
+            "psnr_avg": 40.61,
+            "psnr_y": 39.72,
+            "psnr_u": 44.02,
+            "psnr_v": 42.63
+        },
+        {
+            "n": 36,
+            "mse_avg": 3.78,
+            "mse_y": 4.63,
+            "mse_u": 1.76,
+            "mse_v": 2.37,
+            "psnr_avg": 42.36,
+            "psnr_y": 41.47,
+            "psnr_u": 45.67,
+            "psnr_v": 44.39
+        },
+        {
+            "n": 37,
+            "mse_avg": 5.07,
+            "mse_y": 6.32,
+            "mse_u": 2.15,
+            "mse_v": 3.03,
+            "psnr_avg": 41.08,
+            "psnr_y": 40.13,
+            "psnr_u": 44.81,
+            "psnr_v": 43.31
+        },
+        {
+            "n": 38,
+            "mse_avg": 3.93,
+            "mse_y": 4.84,
+            "mse_u": 1.73,
+            "mse_v": 2.47,
+            "psnr_avg": 42.19,
+            "psnr_y": 41.28,
+            "psnr_u": 45.76,
+            "psnr_v": 44.2
+        },
+        {
+            "n": 39,
+            "mse_avg": 4.99,
+            "mse_y": 6.19,
+            "mse_u": 2.14,
+            "mse_v": 3.03,
+            "psnr_avg": 41.15,
+            "psnr_y": 40.22,
+            "psnr_u": 44.83,
+            "psnr_v": 43.31
+        },
+        {
+            "n": 40,
+            "mse_avg": 3.96,
+            "mse_y": 4.89,
+            "mse_u": 1.78,
+            "mse_v": 2.41,
+            "psnr_avg": 42.16,
+            "psnr_y": 41.24,
+            "psnr_u": 45.63,
+            "psnr_v": 44.31
+        },
+        {
+            "n": 41,
+            "mse_avg": 4.94,
+            "mse_y": 6.15,
+            "mse_u": 2.11,
+            "mse_v": 2.94,
+            "psnr_avg": 41.19,
+            "psnr_y": 40.24,
+            "psnr_u": 44.9,
+            "psnr_v": 43.44
+        },
+        {
+            "n": 42,
+            "mse_avg": 4.58,
+            "mse_y": 5.65,
+            "mse_u": 2.0,
+            "mse_v": 2.84,
+            "psnr_avg": 41.53,
+            "psnr_y": 40.61,
+            "psnr_u": 45.12,
+            "psnr_v": 43.59
+        },
+        {
+            "n": 43,
+            "mse_avg": 5.22,
+            "mse_y": 6.5,
+            "mse_u": 2.21,
+            "mse_v": 3.1,
+            "psnr_avg": 40.95,
+            "psnr_y": 40.0,
+            "psnr_u": 44.69,
+            "psnr_v": 43.21
+        },
+        {
+            "n": 44,
+            "mse_avg": 4.14,
+            "mse_y": 5.14,
+            "mse_u": 1.83,
+            "mse_v": 2.44,
+            "psnr_avg": 41.97,
+            "psnr_y": 41.02,
+            "psnr_u": 45.5,
+            "psnr_v": 44.26
+        },
+        {
+            "n": 45,
+            "mse_avg": 7.13,
+            "mse_y": 9.17,
+            "mse_u": 2.54,
+            "mse_v": 3.52,
+            "psnr_avg": 39.6,
+            "psnr_y": 38.51,
+            "psnr_u": 44.08,
+            "psnr_v": 42.66
+        },
+        {
+            "n": 46,
+            "mse_avg": 5.62,
+            "mse_y": 7.21,
+            "mse_u": 2.07,
+            "mse_v": 2.83,
+            "psnr_avg": 40.63,
+            "psnr_y": 39.55,
+            "psnr_u": 44.96,
+            "psnr_v": 43.61
+        },
+        {
+            "n": 47,
+            "mse_avg": 4.05,
+            "mse_y": 5.12,
+            "mse_u": 1.6,
+            "mse_v": 2.2,
+            "psnr_avg": 42.06,
+            "psnr_y": 41.03,
+            "psnr_u": 46.08,
+            "psnr_v": 44.7
+        },
+        {
+            "n": 48,
+            "mse_avg": 5.08,
+            "mse_y": 6.49,
+            "mse_u": 1.85,
+            "mse_v": 2.67,
+            "psnr_avg": 41.07,
+            "psnr_y": 40.01,
+            "psnr_u": 45.45,
+            "psnr_v": 43.87
+        },
+        {
+            "n": 49,
+            "mse_avg": 3.19,
+            "mse_y": 3.94,
+            "mse_u": 1.46,
+            "mse_v": 1.93,
+            "psnr_avg": 43.09,
+            "psnr_y": 42.18,
+            "psnr_u": 46.48,
+            "psnr_v": 45.27
+        },
+        {
+            "n": 50,
+            "mse_avg": 6.88,
+            "mse_y": 8.94,
+            "mse_u": 2.29,
+            "mse_v": 3.27,
+            "psnr_avg": 39.75,
+            "psnr_y": 38.62,
+            "psnr_u": 44.54,
+            "psnr_v": 42.99
+        },
+        {
+            "n": 51,
+            "mse_avg": 5.56,
+            "mse_y": 7.14,
+            "mse_u": 2.01,
+            "mse_v": 2.81,
+            "psnr_avg": 40.68,
+            "psnr_y": 39.59,
+            "psnr_u": 45.11,
+            "psnr_v": 43.65
+        },
+        {
+            "n": 52,
+            "mse_avg": 4.27,
+            "mse_y": 5.33,
+            "mse_u": 1.74,
+            "mse_v": 2.54,
+            "psnr_avg": 41.83,
+            "psnr_y": 40.86,
+            "psnr_u": 45.73,
+            "psnr_v": 44.08
+        },
+        {
+            "n": 53,
+            "mse_avg": 3.94,
+            "mse_y": 4.82,
+            "mse_u": 1.83,
+            "mse_v": 2.54,
+            "psnr_avg": 42.17,
+            "psnr_y": 41.3,
+            "psnr_u": 45.5,
+            "psnr_v": 44.09
+        },
+        {
+            "n": 54,
+            "mse_avg": 5.59,
+            "mse_y": 7.17,
+            "mse_u": 1.98,
+            "mse_v": 2.92,
+            "psnr_avg": 40.65,
+            "psnr_y": 39.58,
+            "psnr_u": 45.16,
+            "psnr_v": 43.48
+        },
+        {
+            "n": 55,
+            "mse_avg": 6.73,
+            "mse_y": 8.61,
+            "mse_u": 2.46,
+            "mse_v": 3.52,
+            "psnr_avg": 39.85,
+            "psnr_y": 38.78,
+            "psnr_u": 44.23,
+            "psnr_v": 42.67
+        },
+        {
+            "n": 56,
+            "mse_avg": 5.27,
+            "mse_y": 6.7,
+            "mse_u": 1.99,
+            "mse_v": 2.84,
+            "psnr_avg": 40.91,
+            "psnr_y": 39.87,
+            "psnr_u": 45.14,
+            "psnr_v": 43.6
+        },
+        {
+            "n": 57,
+            "mse_avg": 6.11,
+            "mse_y": 7.7,
+            "mse_u": 2.41,
+            "mse_v": 3.44,
+            "psnr_avg": 40.27,
+            "psnr_y": 39.26,
+            "psnr_u": 44.31,
+            "psnr_v": 42.76
+        },
+        {
+            "n": 58,
+            "mse_avg": 4.45,
+            "mse_y": 5.44,
+            "mse_u": 2.11,
+            "mse_v": 2.8,
+            "psnr_avg": 41.65,
+            "psnr_y": 40.77,
+            "psnr_u": 44.9,
+            "psnr_v": 43.66
+        },
+        {
+            "n": 59,
+            "mse_avg": 5.96,
+            "mse_y": 7.43,
+            "mse_u": 2.65,
+            "mse_v": 3.35,
+            "psnr_avg": 40.38,
+            "psnr_y": 39.42,
+            "psnr_u": 43.9,
+            "psnr_v": 42.88
+        },
+        {
+            "n": 60,
+            "mse_avg": 5.33,
+            "mse_y": 6.62,
+            "mse_u": 2.49,
+            "mse_v": 2.98,
+            "psnr_avg": 40.87,
+            "psnr_y": 39.92,
+            "psnr_u": 44.17,
+            "psnr_v": 43.39
+        },
+        {
+            "n": 61,
+            "mse_avg": 3.86,
+            "mse_y": 4.74,
+            "mse_u": 1.89,
+            "mse_v": 2.33,
+            "psnr_avg": 42.26,
+            "psnr_y": 41.38,
+            "psnr_u": 45.37,
+            "psnr_v": 44.46
+        },
+        {
+            "n": 62,
+            "mse_avg": 5.53,
+            "mse_y": 6.86,
+            "mse_u": 2.58,
+            "mse_v": 3.17,
+            "psnr_avg": 40.7,
+            "psnr_y": 39.77,
+            "psnr_u": 44.02,
+            "psnr_v": 43.12
+        },
+        {
+            "n": 63,
+            "mse_avg": 4.11,
+            "mse_y": 5.01,
+            "mse_u": 2.08,
+            "mse_v": 2.53,
+            "psnr_avg": 41.99,
+            "psnr_y": 41.13,
+            "psnr_u": 44.95,
+            "psnr_v": 44.11
+        },
+        {
+            "n": 64,
+            "mse_avg": 3.96,
+            "mse_y": 4.82,
+            "mse_u": 2.02,
+            "mse_v": 2.44,
+            "psnr_avg": 42.16,
+            "psnr_y": 41.3,
+            "psnr_u": 45.08,
+            "psnr_v": 44.26
+        },
+        {
+            "n": 65,
+            "mse_avg": 4.73,
+            "mse_y": 5.74,
+            "mse_u": 2.42,
+            "mse_v": 3.02,
+            "psnr_avg": 41.38,
+            "psnr_y": 40.54,
+            "psnr_u": 44.29,
+            "psnr_v": 43.33
+        },
+        {
+            "n": 66,
+            "mse_avg": 5.14,
+            "mse_y": 6.37,
+            "mse_u": 2.44,
+            "mse_v": 2.89,
+            "psnr_avg": 41.02,
+            "psnr_y": 40.09,
+            "psnr_u": 44.26,
+            "psnr_v": 43.53
+        },
+        {
+            "n": 67,
+            "mse_avg": 3.46,
+            "mse_y": 4.09,
+            "mse_u": 1.99,
+            "mse_v": 2.38,
+            "psnr_avg": 42.74,
+            "psnr_y": 42.01,
+            "psnr_u": 45.15,
+            "psnr_v": 44.36
+        },
+        {
+            "n": 68,
+            "mse_avg": 4.24,
+            "mse_y": 5.13,
+            "mse_u": 2.23,
+            "mse_v": 2.69,
+            "psnr_avg": 41.86,
+            "psnr_y": 41.03,
+            "psnr_u": 44.65,
+            "psnr_v": 43.83
+        },
+        {
+            "n": 69,
+            "mse_avg": 4.14,
+            "mse_y": 4.84,
+            "mse_u": 2.44,
+            "mse_v": 3.06,
+            "psnr_avg": 41.96,
+            "psnr_y": 41.28,
+            "psnr_u": 44.25,
+            "psnr_v": 43.28
+        },
+        {
+            "n": 70,
+            "mse_avg": 4.94,
+            "mse_y": 6.04,
+            "mse_u": 2.44,
+            "mse_v": 3.0,
+            "psnr_avg": 41.2,
+            "psnr_y": 40.32,
+            "psnr_u": 44.26,
+            "psnr_v": 43.35
+        },
+        {
+            "n": 71,
+            "mse_avg": 3.57,
+            "mse_y": 4.27,
+            "mse_u": 1.98,
+            "mse_v": 2.34,
+            "psnr_avg": 42.6,
+            "psnr_y": 41.82,
+            "psnr_u": 45.16,
+            "psnr_v": 44.43
+        },
+        {
+            "n": 72,
+            "mse_avg": 5.2,
+            "mse_y": 6.32,
+            "mse_u": 2.65,
+            "mse_v": 3.25,
+            "psnr_avg": 40.97,
+            "psnr_y": 40.12,
+            "psnr_u": 43.9,
+            "psnr_v": 43.01
+        },
+        {
+            "n": 73,
+            "mse_avg": 4.04,
+            "mse_y": 4.89,
+            "mse_u": 2.15,
+            "mse_v": 2.55,
+            "psnr_avg": 42.06,
+            "psnr_y": 41.24,
+            "psnr_u": 44.81,
+            "psnr_v": 44.06
+        },
+        {
+            "n": 74,
+            "mse_avg": 3.93,
+            "mse_y": 4.71,
+            "mse_u": 2.16,
+            "mse_v": 2.56,
+            "psnr_avg": 42.19,
+            "psnr_y": 41.4,
+            "psnr_u": 44.78,
+            "psnr_v": 44.05
+        },
+        {
+            "n": 75,
+            "mse_avg": 4.92,
+            "mse_y": 6.04,
+            "mse_u": 2.44,
+            "mse_v": 2.92,
+            "psnr_avg": 41.21,
+            "psnr_y": 40.32,
+            "psnr_u": 44.26,
+            "psnr_v": 43.48
+        },
+        {
+            "n": 76,
+            "mse_avg": 3.34,
+            "mse_y": 3.93,
+            "mse_u": 1.99,
+            "mse_v": 2.31,
+            "psnr_avg": 42.9,
+            "psnr_y": 42.19,
+            "psnr_u": 45.14,
+            "psnr_v": 44.49
+        },
+        {
+            "n": 77,
+            "mse_avg": 4.82,
+            "mse_y": 5.83,
+            "mse_u": 2.61,
+            "mse_v": 3.01,
+            "psnr_avg": 41.3,
+            "psnr_y": 40.47,
+            "psnr_u": 43.97,
+            "psnr_v": 43.35
+        },
+        {
+            "n": 78,
+            "mse_avg": 4.18,
+            "mse_y": 5.07,
+            "mse_u": 2.21,
+            "mse_v": 2.56,
+            "psnr_avg": 41.92,
+            "psnr_y": 41.08,
+            "psnr_u": 44.68,
+            "psnr_v": 44.05
+        },
+        {
+            "n": 79,
+            "mse_avg": 3.72,
+            "mse_y": 4.43,
+            "mse_u": 2.12,
+            "mse_v": 2.45,
+            "psnr_avg": 42.43,
+            "psnr_y": 41.66,
+            "psnr_u": 44.87,
+            "psnr_v": 44.24
+        },
+        {
+            "n": 80,
+            "mse_avg": 4.47,
+            "mse_y": 5.49,
+            "mse_u": 2.25,
+            "mse_v": 2.59,
+            "psnr_avg": 41.63,
+            "psnr_y": 40.74,
+            "psnr_u": 44.61,
+            "psnr_v": 44.0
+        },
+        {
+            "n": 81,
+            "mse_avg": 2.82,
+            "mse_y": 3.35,
+            "mse_u": 1.66,
+            "mse_v": 1.87,
+            "psnr_avg": 43.62,
+            "psnr_y": 42.88,
+            "psnr_u": 45.93,
+            "psnr_v": 45.41
+        },
+        {
+            "n": 82,
+            "mse_avg": 4.33,
+            "mse_y": 5.2,
+            "mse_u": 2.4,
+            "mse_v": 2.76,
+            "psnr_avg": 41.77,
+            "psnr_y": 40.97,
+            "psnr_u": 44.34,
+            "psnr_v": 43.72
+        },
+        {
+            "n": 83,
+            "mse_avg": 4.22,
+            "mse_y": 5.1,
+            "mse_u": 2.32,
+            "mse_v": 2.6,
+            "psnr_avg": 41.88,
+            "psnr_y": 41.06,
+            "psnr_u": 44.48,
+            "psnr_v": 43.98
+        },
+        {
+            "n": 84,
+            "mse_avg": 3.86,
+            "mse_y": 4.6,
+            "mse_u": 2.22,
+            "mse_v": 2.52,
+            "psnr_avg": 42.27,
+            "psnr_y": 41.5,
+            "psnr_u": 44.67,
+            "psnr_v": 44.11
+        },
+        {
+            "n": 85,
+            "mse_avg": 4.24,
+            "mse_y": 5.09,
+            "mse_u": 2.43,
+            "mse_v": 2.64,
+            "psnr_avg": 41.86,
+            "psnr_y": 41.07,
+            "psnr_u": 44.27,
+            "psnr_v": 43.91
+        },
+        {
+            "n": 86,
+            "mse_avg": 2.59,
+            "mse_y": 2.97,
+            "mse_u": 1.72,
+            "mse_v": 1.93,
+            "psnr_avg": 44.0,
+            "psnr_y": 43.4,
+            "psnr_u": 45.78,
+            "psnr_v": 45.28
+        },
+        {
+            "n": 87,
+            "mse_avg": 4.0,
+            "mse_y": 4.71,
+            "mse_u": 2.44,
+            "mse_v": 2.71,
+            "psnr_avg": 42.11,
+            "psnr_y": 41.4,
+            "psnr_u": 44.25,
+            "psnr_v": 43.8
+        },
+        {
+            "n": 88,
+            "mse_avg": 3.37,
+            "mse_y": 3.94,
+            "mse_u": 2.14,
+            "mse_v": 2.32,
+            "psnr_avg": 42.85,
+            "psnr_y": 42.17,
+            "psnr_u": 44.83,
+            "psnr_v": 44.48
+        },
+        {
+            "n": 89,
+            "mse_avg": 3.17,
+            "mse_y": 3.76,
+            "mse_u": 1.91,
+            "mse_v": 2.06,
+            "psnr_avg": 43.12,
+            "psnr_y": 42.37,
+            "psnr_u": 45.33,
+            "psnr_v": 44.98
+        },
+        {
+            "n": 90,
+            "mse_avg": 2.7,
+            "mse_y": 3.12,
+            "mse_u": 1.76,
+            "mse_v": 1.96,
+            "psnr_avg": 43.82,
+            "psnr_y": 43.19,
+            "psnr_u": 45.67,
+            "psnr_v": 45.22
+        },
+        {
+            "n": 91,
+            "mse_avg": 3.26,
+            "mse_y": 3.89,
+            "mse_u": 1.93,
+            "mse_v": 2.1,
+            "psnr_avg": 42.99,
+            "psnr_y": 42.23,
+            "psnr_u": 45.28,
+            "psnr_v": 44.91
+        },
+        {
+            "n": 92,
+            "mse_avg": 3.23,
+            "mse_y": 3.71,
+            "mse_u": 2.22,
+            "mse_v": 2.34,
+            "psnr_avg": 43.04,
+            "psnr_y": 42.44,
+            "psnr_u": 44.67,
+            "psnr_v": 44.45
+        },
+        {
+            "n": 93,
+            "mse_avg": 3.53,
+            "mse_y": 4.14,
+            "mse_u": 2.25,
+            "mse_v": 2.34,
+            "psnr_avg": 42.66,
+            "psnr_y": 41.96,
+            "psnr_u": 44.61,
+            "psnr_v": 44.45
+        },
+        {
+            "n": 94,
+            "mse_avg": 2.77,
+            "mse_y": 3.21,
+            "mse_u": 1.81,
+            "mse_v": 1.95,
+            "psnr_avg": 43.71,
+            "psnr_y": 43.06,
+            "psnr_u": 45.56,
+            "psnr_v": 45.23
+        },
+        {
+            "n": 95,
+            "mse_avg": 3.13,
+            "mse_y": 3.74,
+            "mse_u": 1.89,
+            "mse_v": 1.96,
+            "psnr_avg": 43.17,
+            "psnr_y": 42.41,
+            "psnr_u": 45.37,
+            "psnr_v": 45.2
+        },
+        {
+            "n": 96,
+            "mse_avg": 2.75,
+            "mse_y": 3.32,
+            "mse_u": 1.59,
+            "mse_v": 1.63,
+            "psnr_avg": 43.74,
+            "psnr_y": 42.92,
+            "psnr_u": 46.11,
+            "psnr_v": 46.0
+        },
+        {
+            "n": 97,
+            "mse_avg": 2.0,
+            "mse_y": 2.32,
+            "mse_u": 1.32,
+            "mse_v": 1.41,
+            "psnr_avg": 45.11,
+            "psnr_y": 44.47,
+            "psnr_u": 46.93,
+            "psnr_v": 46.65
+        },
+        {
+            "n": 98,
+            "mse_avg": 3.32,
+            "mse_y": 3.97,
+            "mse_u": 2.02,
+            "mse_v": 2.04,
+            "psnr_avg": 42.92,
+            "psnr_y": 42.14,
+            "psnr_u": 45.07,
+            "psnr_v": 45.04
+        },
+        {
+            "n": 99,
+            "mse_avg": 3.1,
+            "mse_y": 3.71,
+            "mse_u": 1.9,
+            "mse_v": 1.87,
+            "psnr_avg": 43.21,
+            "psnr_y": 42.44,
+            "psnr_u": 45.35,
+            "psnr_v": 45.41
+        },
+        {
+            "n": 100,
+            "mse_avg": 3.1,
+            "mse_y": 3.71,
+            "mse_u": 1.84,
+            "mse_v": 1.89,
+            "psnr_avg": 43.22,
+            "psnr_y": 42.43,
+            "psnr_u": 45.49,
+            "psnr_v": 45.36
+        },
+        {
+            "n": 101,
+            "mse_avg": 2.68,
+            "mse_y": 3.25,
+            "mse_u": 1.54,
+            "mse_v": 1.51,
+            "psnr_avg": 43.86,
+            "psnr_y": 43.01,
+            "psnr_u": 46.25,
+            "psnr_v": 46.34
+        },
+        {
+            "n": 102,
+            "mse_avg": 2.38,
+            "mse_y": 2.81,
+            "mse_u": 1.51,
+            "mse_v": 1.55,
+            "psnr_avg": 44.36,
+            "psnr_y": 43.64,
+            "psnr_u": 46.33,
+            "psnr_v": 46.22
+        },
+        {
+            "n": 103,
+            "mse_avg": 3.21,
+            "mse_y": 3.82,
+            "mse_u": 1.96,
+            "mse_v": 2.01,
+            "psnr_avg": 43.07,
+            "psnr_y": 42.31,
+            "psnr_u": 45.21,
+            "psnr_v": 45.1
+        },
+        {
+            "n": 104,
+            "mse_avg": 3.28,
+            "mse_y": 3.93,
+            "mse_u": 1.98,
+            "mse_v": 1.99,
+            "psnr_avg": 42.97,
+            "psnr_y": 42.19,
+            "psnr_u": 45.16,
+            "psnr_v": 45.14
+        },
+        {
+            "n": 105,
+            "mse_avg": 3.17,
+            "mse_y": 3.78,
+            "mse_u": 1.91,
+            "mse_v": 1.97,
+            "psnr_avg": 43.13,
+            "psnr_y": 42.36,
+            "psnr_u": 45.33,
+            "psnr_v": 45.19
+        },
+        {
+            "n": 106,
+            "mse_avg": 3.17,
+            "mse_y": 3.76,
+            "mse_u": 2.01,
+            "mse_v": 1.97,
+            "psnr_avg": 43.12,
+            "psnr_y": 42.38,
+            "psnr_u": 45.1,
+            "psnr_v": 45.18
+        },
+        {
+            "n": 107,
+            "mse_avg": 2.59,
+            "mse_y": 3.06,
+            "mse_u": 1.66,
+            "mse_v": 1.67,
+            "psnr_avg": 43.99,
+            "psnr_y": 43.28,
+            "psnr_u": 45.92,
+            "psnr_v": 45.91
+        },
+        {
+            "n": 108,
+            "mse_avg": 8.64,
+            "mse_y": 12.02,
+            "mse_u": 1.74,
+            "mse_v": 2.04,
+            "psnr_avg": 38.77,
+            "psnr_y": 37.33,
+            "psnr_u": 45.73,
+            "psnr_v": 45.04
+        },
+        {
+            "n": 109,
+            "mse_avg": 9.72,
+            "mse_y": 13.72,
+            "mse_u": 1.51,
+            "mse_v": 1.95,
+            "psnr_avg": 38.25,
+            "psnr_y": 36.76,
+            "psnr_u": 46.33,
+            "psnr_v": 45.23
+        },
+        {
+            "n": 110,
+            "mse_avg": 10.15,
+            "mse_y": 14.32,
+            "mse_u": 1.62,
+            "mse_v": 2.02,
+            "psnr_avg": 38.06,
+            "psnr_y": 36.57,
+            "psnr_u": 46.04,
+            "psnr_v": 45.08
+        },
+        {
+            "n": 111,
+            "mse_avg": 12.06,
+            "mse_y": 16.87,
+            "mse_u": 2.28,
+            "mse_v": 2.58,
+            "psnr_avg": 37.32,
+            "psnr_y": 35.86,
+            "psnr_u": 44.55,
+            "psnr_v": 44.01
+        },
+        {
+            "n": 112,
+            "mse_avg": 12.19,
+            "mse_y": 17.17,
+            "mse_u": 2.12,
+            "mse_v": 2.37,
+            "psnr_avg": 37.27,
+            "psnr_y": 35.78,
+            "psnr_u": 44.87,
+            "psnr_v": 44.39
+        },
+        {
+            "n": 113,
+            "mse_avg": 8.87,
+            "mse_y": 12.46,
+            "mse_u": 1.52,
+            "mse_v": 1.88,
+            "psnr_avg": 38.65,
+            "psnr_y": 37.18,
+            "psnr_u": 46.3,
+            "psnr_v": 45.38
+        },
+        {
+            "n": 114,
+            "mse_avg": 9.45,
+            "mse_y": 13.36,
+            "mse_u": 1.46,
+            "mse_v": 1.83,
+            "psnr_avg": 38.38,
+            "psnr_y": 36.87,
+            "psnr_u": 46.48,
+            "psnr_v": 45.5
+        },
+        {
+            "n": 115,
+            "mse_avg": 10.15,
+            "mse_y": 14.29,
+            "mse_u": 1.66,
+            "mse_v": 2.07,
+            "psnr_avg": 38.07,
+            "psnr_y": 36.58,
+            "psnr_u": 45.92,
+            "psnr_v": 44.97
+        },
+        {
+            "n": 116,
+            "mse_avg": 11.17,
+            "mse_y": 15.6,
+            "mse_u": 2.16,
+            "mse_v": 2.46,
+            "psnr_avg": 37.65,
+            "psnr_y": 36.2,
+            "psnr_u": 44.78,
+            "psnr_v": 44.22
+        },
+        {
+            "n": 117,
+            "mse_avg": 10.47,
+            "mse_y": 14.75,
+            "mse_u": 1.74,
+            "mse_v": 2.09,
+            "psnr_avg": 37.93,
+            "psnr_y": 36.44,
+            "psnr_u": 45.73,
+            "psnr_v": 44.93
+        },
+        {
+            "n": 118,
+            "mse_avg": 9.45,
+            "mse_y": 13.24,
+            "mse_u": 1.72,
+            "mse_v": 2.0,
+            "psnr_avg": 38.38,
+            "psnr_y": 36.91,
+            "psnr_u": 45.78,
+            "psnr_v": 45.12
+        },
+        {
+            "n": 119,
+            "mse_avg": 10.32,
+            "mse_y": 14.52,
+            "mse_u": 1.75,
+            "mse_v": 2.09,
+            "psnr_avg": 37.99,
+            "psnr_y": 36.51,
+            "psnr_u": 45.69,
+            "psnr_v": 44.93
+        },
+        {
+            "n": 120,
+            "mse_avg": 10.52,
+            "mse_y": 14.64,
+            "mse_u": 2.12,
+            "mse_v": 2.44,
+            "psnr_avg": 37.91,
+            "psnr_y": 36.48,
+            "psnr_u": 44.88,
+            "psnr_v": 44.25
+        },
+        {
+            "n": 121,
+            "mse_avg": 11.12,
+            "mse_y": 15.56,
+            "mse_u": 2.13,
+            "mse_v": 2.34,
+            "psnr_avg": 37.67,
+            "psnr_y": 36.21,
+            "psnr_u": 44.84,
+            "psnr_v": 44.43
+        },
+        {
+            "n": 122,
+            "mse_avg": 10.28,
+            "mse_y": 14.42,
+            "mse_u": 1.87,
+            "mse_v": 2.17,
+            "psnr_avg": 38.01,
+            "psnr_y": 36.54,
+            "psnr_u": 45.42,
+            "psnr_v": 44.77
+        },
+        {
+            "n": 123,
+            "mse_avg": 8.68,
+            "mse_y": 12.18,
+            "mse_u": 1.54,
+            "mse_v": 1.83,
+            "psnr_avg": 38.74,
+            "psnr_y": 37.27,
+            "psnr_u": 46.24,
+            "psnr_v": 45.5
+        },
+        {
+            "n": 124,
+            "mse_avg": 9.66,
+            "mse_y": 13.57,
+            "mse_u": 1.69,
+            "mse_v": 2.01,
+            "psnr_avg": 38.28,
+            "psnr_y": 36.81,
+            "psnr_u": 45.84,
+            "psnr_v": 45.09
+        },
+        {
+            "n": 125,
+            "mse_avg": 11.95,
+            "mse_y": 16.56,
+            "mse_u": 2.63,
+            "mse_v": 2.87,
+            "psnr_avg": 37.36,
+            "psnr_y": 35.94,
+            "psnr_u": 43.94,
+            "psnr_v": 43.55
+        },
+        {
+            "n": 126,
+            "mse_avg": 10.84,
+            "mse_y": 15.11,
+            "mse_u": 2.2,
+            "mse_v": 2.41,
+            "psnr_avg": 37.78,
+            "psnr_y": 36.34,
+            "psnr_u": 44.7,
+            "psnr_v": 44.3
+        },
+        {
+            "n": 127,
+            "mse_avg": 9.47,
+            "mse_y": 13.29,
+            "mse_u": 1.69,
+            "mse_v": 2.0,
+            "psnr_avg": 38.37,
+            "psnr_y": 36.9,
+            "psnr_u": 45.85,
+            "psnr_v": 45.13
+        },
+        {
+            "n": 128,
+            "mse_avg": 8.95,
+            "mse_y": 12.5,
+            "mse_u": 1.72,
+            "mse_v": 2.0,
+            "psnr_avg": 38.61,
+            "psnr_y": 37.16,
+            "psnr_u": 45.78,
+            "psnr_v": 45.12
+        },
+        {
+            "n": 129,
+            "mse_avg": 11.5,
+            "mse_y": 15.93,
+            "mse_u": 2.5,
+            "mse_v": 2.76,
+            "psnr_avg": 37.53,
+            "psnr_y": 36.11,
+            "psnr_u": 44.15,
+            "psnr_v": 43.72
+        },
+        {
+            "n": 130,
+            "mse_avg": 10.86,
+            "mse_y": 15.1,
+            "mse_u": 2.25,
+            "mse_v": 2.47,
+            "psnr_avg": 37.77,
+            "psnr_y": 36.34,
+            "psnr_u": 44.61,
+            "psnr_v": 44.2
+        },
+        {
+            "n": 131,
+            "mse_avg": 10.25,
+            "mse_y": 14.25,
+            "mse_u": 2.11,
+            "mse_v": 2.37,
+            "psnr_avg": 38.02,
+            "psnr_y": 36.59,
+            "psnr_u": 44.88,
+            "psnr_v": 44.39
+        },
+        {
+            "n": 132,
+            "mse_avg": 10.4,
+            "mse_y": 14.51,
+            "mse_u": 2.07,
+            "mse_v": 2.32,
+            "psnr_avg": 37.96,
+            "psnr_y": 36.52,
+            "psnr_u": 44.97,
+            "psnr_v": 44.47
+        },
+        {
+            "n": 133,
+            "mse_avg": 8.36,
+            "mse_y": 11.69,
+            "mse_u": 1.55,
+            "mse_v": 1.84,
+            "psnr_avg": 38.91,
+            "psnr_y": 37.45,
+            "psnr_u": 46.23,
+            "psnr_v": 45.48
+        },
+        {
+            "n": 134,
+            "mse_avg": 10.17,
+            "mse_y": 14.21,
+            "mse_u": 1.96,
+            "mse_v": 2.24,
+            "psnr_avg": 38.06,
+            "psnr_y": 36.6,
+            "psnr_u": 45.22,
+            "psnr_v": 44.62
+        },
+        {
+            "n": 135,
+            "mse_avg": 10.92,
+            "mse_y": 15.13,
+            "mse_u": 2.34,
+            "mse_v": 2.61,
+            "psnr_avg": 37.75,
+            "psnr_y": 36.33,
+            "psnr_u": 44.43,
+            "psnr_v": 43.96
+        },
+        {
+            "n": 136,
+            "mse_avg": 11.29,
+            "mse_y": 15.7,
+            "mse_u": 2.33,
+            "mse_v": 2.59,
+            "psnr_avg": 37.6,
+            "psnr_y": 36.17,
+            "psnr_u": 44.45,
+            "psnr_v": 44.0
+        },
+        {
+            "n": 137,
+            "mse_avg": 7.96,
+            "mse_y": 11.1,
+            "mse_u": 1.53,
+            "mse_v": 1.82,
+            "psnr_avg": 39.12,
+            "psnr_y": 37.68,
+            "psnr_u": 46.29,
+            "psnr_v": 45.53
+        },
+        {
+            "n": 138,
+            "mse_avg": 9.41,
+            "mse_y": 13.15,
+            "mse_u": 1.78,
+            "mse_v": 2.07,
+            "psnr_avg": 38.4,
+            "psnr_y": 36.94,
+            "psnr_u": 45.63,
+            "psnr_v": 44.98
+        },
+        {
+            "n": 139,
+            "mse_avg": 9.86,
+            "mse_y": 13.63,
+            "mse_u": 2.21,
+            "mse_v": 2.43,
+            "psnr_avg": 38.19,
+            "psnr_y": 36.79,
+            "psnr_u": 44.69,
+            "psnr_v": 44.27
+        },
+        {
+            "n": 140,
+            "mse_avg": 10.01,
+            "mse_y": 13.99,
+            "mse_u": 1.93,
+            "mse_v": 2.16,
+            "psnr_avg": 38.13,
+            "psnr_y": 36.67,
+            "psnr_u": 45.28,
+            "psnr_v": 44.78
+        },
+        {
+            "n": 141,
+            "mse_avg": 8.81,
+            "mse_y": 12.29,
+            "mse_u": 1.74,
+            "mse_v": 1.94,
+            "psnr_avg": 38.68,
+            "psnr_y": 37.23,
+            "psnr_u": 45.72,
+            "psnr_v": 45.25
+        },
+        {
+            "n": 142,
+            "mse_avg": 10.4,
+            "mse_y": 14.51,
+            "mse_u": 2.08,
+            "mse_v": 2.28,
+            "psnr_avg": 37.96,
+            "psnr_y": 36.52,
+            "psnr_u": 44.95,
+            "psnr_v": 44.56
+        },
+        {
+            "n": 143,
+            "mse_avg": 9.55,
+            "mse_y": 13.37,
+            "mse_u": 1.82,
+            "mse_v": 2.0,
+            "psnr_avg": 38.33,
+            "psnr_y": 36.87,
+            "psnr_u": 45.53,
+            "psnr_v": 45.13
+        },
+        {
+            "n": 144,
+            "mse_avg": 9.46,
+            "mse_y": 13.34,
+            "mse_u": 1.59,
+            "mse_v": 1.84,
+            "psnr_avg": 38.37,
+            "psnr_y": 36.88,
+            "psnr_u": 46.13,
+            "psnr_v": 45.49
+        },
+        {
+            "n": 145,
+            "mse_avg": 7.51,
+            "mse_y": 10.61,
+            "mse_u": 1.23,
+            "mse_v": 1.41,
+            "psnr_avg": 39.37,
+            "psnr_y": 37.87,
+            "psnr_u": 47.22,
+            "psnr_v": 46.65
+        },
+        {
+            "n": 146,
+            "mse_avg": 10.29,
+            "mse_y": 14.48,
+            "mse_u": 1.82,
+            "mse_v": 2.01,
+            "psnr_avg": 38.01,
+            "psnr_y": 36.52,
+            "psnr_u": 45.53,
+            "psnr_v": 45.11
+        },
+        {
+            "n": 147,
+            "mse_avg": 9.82,
+            "mse_y": 13.8,
+            "mse_u": 1.75,
+            "mse_v": 2.0,
+            "psnr_avg": 38.21,
+            "psnr_y": 36.73,
+            "psnr_u": 45.71,
+            "psnr_v": 45.12
+        },
+        {
+            "n": 148,
+            "mse_avg": 9.6,
+            "mse_y": 13.48,
+            "mse_u": 1.74,
+            "mse_v": 1.94,
+            "psnr_avg": 38.31,
+            "psnr_y": 36.83,
+            "psnr_u": 45.72,
+            "psnr_v": 45.26
+        },
+        {
+            "n": 149,
+            "mse_avg": 10.04,
+            "mse_y": 14.1,
+            "mse_u": 1.82,
+            "mse_v": 2.04,
+            "psnr_avg": 38.11,
+            "psnr_y": 36.64,
+            "psnr_u": 45.53,
+            "psnr_v": 45.04
+        },
+        {
+            "n": 150,
+            "mse_avg": 9.02,
+            "mse_y": 12.63,
+            "mse_u": 1.69,
+            "mse_v": 1.89,
+            "psnr_avg": 38.58,
+            "psnr_y": 37.12,
+            "psnr_u": 45.86,
+            "psnr_v": 45.36
+        },
+        {
+            "n": 151,
+            "mse_avg": 11.03,
+            "mse_y": 15.42,
+            "mse_u": 2.09,
+            "mse_v": 2.38,
+            "psnr_avg": 37.71,
+            "psnr_y": 36.25,
+            "psnr_u": 44.92,
+            "psnr_v": 44.36
+        },
+        {
+            "n": 152,
+            "mse_avg": 10.12,
+            "mse_y": 14.19,
+            "mse_u": 1.87,
+            "mse_v": 2.08,
+            "psnr_avg": 38.08,
+            "psnr_y": 36.61,
+            "psnr_u": 45.41,
+            "psnr_v": 44.95
+        },
+        {
+            "n": 153,
+            "mse_avg": 10.04,
+            "mse_y": 14.04,
+            "mse_u": 1.88,
+            "mse_v": 2.17,
+            "psnr_avg": 38.11,
+            "psnr_y": 36.66,
+            "psnr_u": 45.38,
+            "psnr_v": 44.76
+        },
+        {
+            "n": 154,
+            "mse_avg": 8.2,
+            "mse_y": 11.45,
+            "mse_u": 1.58,
+            "mse_v": 1.82,
+            "psnr_avg": 38.99,
+            "psnr_y": 37.54,
+            "psnr_u": 46.15,
+            "psnr_v": 45.52
+        },
+        {
+            "n": 155,
+            "mse_avg": 9.77,
+            "mse_y": 13.69,
+            "mse_u": 1.83,
+            "mse_v": 2.04,
+            "psnr_avg": 38.23,
+            "psnr_y": 36.77,
+            "psnr_u": 45.52,
+            "psnr_v": 45.04
+        },
+        {
+            "n": 156,
+            "mse_avg": 9.78,
+            "mse_y": 13.69,
+            "mse_u": 1.84,
+            "mse_v": 2.06,
+            "psnr_avg": 38.23,
+            "psnr_y": 36.77,
+            "psnr_u": 45.49,
+            "psnr_v": 44.99
+        },
+        {
+            "n": 157,
+            "mse_avg": 9.77,
+            "mse_y": 13.67,
+            "mse_u": 1.85,
+            "mse_v": 2.12,
+            "psnr_avg": 38.23,
+            "psnr_y": 36.77,
+            "psnr_u": 45.45,
+            "psnr_v": 44.87
+        },
+        {
+            "n": 158,
+            "mse_avg": 10.17,
+            "mse_y": 14.26,
+            "mse_u": 1.86,
+            "mse_v": 2.12,
+            "psnr_avg": 38.06,
+            "psnr_y": 36.59,
+            "psnr_u": 45.43,
+            "psnr_v": 44.87
+        },
+        {
+            "n": 159,
+            "mse_avg": 8.26,
+            "mse_y": 11.57,
+            "mse_u": 1.52,
+            "mse_v": 1.76,
+            "psnr_avg": 38.96,
+            "psnr_y": 37.5,
+            "psnr_u": 46.32,
+            "psnr_v": 45.67
+        },
+        {
+            "n": 160,
+            "mse_avg": 9.89,
+            "mse_y": 13.88,
+            "mse_u": 1.81,
+            "mse_v": 2.05,
+            "psnr_avg": 38.18,
+            "psnr_y": 36.71,
+            "psnr_u": 45.56,
+            "psnr_v": 45.02
+        },
+        {
+            "n": 161,
+            "mse_avg": 10.38,
+            "mse_y": 14.53,
+            "mse_u": 1.96,
+            "mse_v": 2.22,
+            "psnr_avg": 37.97,
+            "psnr_y": 36.51,
+            "psnr_u": 45.21,
+            "psnr_v": 44.66
+        },
+        {
+            "n": 162,
+            "mse_avg": 9.62,
+            "mse_y": 13.49,
+            "mse_u": 1.78,
+            "mse_v": 1.98,
+            "psnr_avg": 38.3,
+            "psnr_y": 36.83,
+            "psnr_u": 45.64,
+            "psnr_v": 45.16
+        },
+        {
+            "n": 163,
+            "mse_avg": 9.65,
+            "mse_y": 13.51,
+            "mse_u": 1.81,
+            "mse_v": 2.04,
+            "psnr_avg": 38.28,
+            "psnr_y": 36.82,
+            "psnr_u": 45.56,
+            "psnr_v": 45.03
+        },
+        {
+            "n": 164,
+            "mse_avg": 8.54,
+            "mse_y": 11.99,
+            "mse_u": 1.55,
+            "mse_v": 1.73,
+            "psnr_avg": 38.82,
+            "psnr_y": 37.34,
+            "psnr_u": 46.23,
+            "psnr_v": 45.75
+        },
+        {
+            "n": 165,
+            "mse_avg": 9.51,
+            "mse_y": 13.37,
+            "mse_u": 1.71,
+            "mse_v": 1.87,
+            "psnr_avg": 38.35,
+            "psnr_y": 36.87,
+            "psnr_u": 45.81,
+            "psnr_v": 45.41
+        },
+        {
+            "n": 166,
+            "mse_avg": 9.52,
+            "mse_y": 13.37,
+            "mse_u": 1.73,
+            "mse_v": 1.93,
+            "psnr_avg": 38.34,
+            "psnr_y": 36.87,
+            "psnr_u": 45.74,
+            "psnr_v": 45.28
+        },
+        {
+            "n": 167,
+            "mse_avg": 9.34,
+            "mse_y": 13.09,
+            "mse_u": 1.74,
+            "mse_v": 1.92,
+            "psnr_avg": 38.43,
+            "psnr_y": 36.96,
+            "psnr_u": 45.72,
+            "psnr_v": 45.31
+        },
+        {
+            "n": 168,
+            "mse_avg": 9.21,
+            "mse_y": 12.91,
+            "mse_u": 1.72,
+            "mse_v": 1.87,
+            "psnr_avg": 38.49,
+            "psnr_y": 37.02,
+            "psnr_u": 45.78,
+            "psnr_v": 45.42
+        },
+        {
+            "n": 169,
+            "mse_avg": 8.21,
+            "mse_y": 11.52,
+            "mse_u": 1.5,
+            "mse_v": 1.68,
+            "psnr_avg": 38.99,
+            "psnr_y": 37.52,
+            "psnr_u": 46.37,
+            "psnr_v": 45.89
+        },
+        {
+            "n": 170,
+            "mse_avg": 9.17,
+            "mse_y": 12.89,
+            "mse_u": 1.63,
+            "mse_v": 1.81,
+            "psnr_avg": 38.51,
+            "psnr_y": 37.03,
+            "psnr_u": 46.01,
+            "psnr_v": 45.56
+        },
+        {
+            "n": 171,
+            "mse_avg": 8.28,
+            "mse_y": 11.56,
+            "mse_u": 1.64,
+            "mse_v": 1.81,
+            "psnr_avg": 38.95,
+            "psnr_y": 37.5,
+            "psnr_u": 45.99,
+            "psnr_v": 45.55
+        },
+        {
+            "n": 172,
+            "mse_avg": 8.48,
+            "mse_y": 11.9,
+            "mse_u": 1.54,
+            "mse_v": 1.71,
+            "psnr_avg": 38.85,
+            "psnr_y": 37.37,
+            "psnr_u": 46.25,
+            "psnr_v": 45.8
+        },
+        {
+            "n": 173,
+            "mse_avg": 7.46,
+            "mse_y": 10.47,
+            "mse_u": 1.35,
+            "mse_v": 1.53,
+            "psnr_avg": 39.4,
+            "psnr_y": 37.93,
+            "psnr_u": 46.83,
+            "psnr_v": 46.28
+        },
+        {
+            "n": 174,
+            "mse_avg": 8.32,
+            "mse_y": 11.64,
+            "mse_u": 1.58,
+            "mse_v": 1.77,
+            "psnr_avg": 38.93,
+            "psnr_y": 37.47,
+            "psnr_u": 46.14,
+            "psnr_v": 45.64
+        },
+        {
+            "n": 175,
+            "mse_avg": 8.29,
+            "mse_y": 11.56,
+            "mse_u": 1.65,
+            "mse_v": 1.87,
+            "psnr_avg": 38.94,
+            "psnr_y": 37.5,
+            "psnr_u": 45.95,
+            "psnr_v": 45.42
+        },
+        {
+            "n": 176,
+            "mse_avg": 7.47,
+            "mse_y": 10.39,
+            "mse_u": 1.52,
+            "mse_v": 1.73,
+            "psnr_avg": 39.4,
+            "psnr_y": 37.97,
+            "psnr_u": 46.31,
+            "psnr_v": 45.74
+        },
+        {
+            "n": 177,
+            "mse_avg": 7.88,
+            "mse_y": 10.96,
+            "mse_u": 1.59,
+            "mse_v": 1.86,
+            "psnr_avg": 39.16,
+            "psnr_y": 37.73,
+            "psnr_u": 46.12,
+            "psnr_v": 45.44
+        },
+        {
+            "n": 178,
+            "mse_avg": 7.04,
+            "mse_y": 9.81,
+            "mse_u": 1.41,
+            "mse_v": 1.62,
+            "psnr_avg": 39.65,
+            "psnr_y": 38.22,
+            "psnr_u": 46.63,
+            "psnr_v": 46.05
+        },
+        {
+            "n": 179,
+            "mse_avg": 4.01,
+            "mse_y": 5.23,
+            "mse_u": 1.5,
+            "mse_v": 1.62,
+            "psnr_avg": 42.1,
+            "psnr_y": 40.94,
+            "psnr_u": 46.38,
+            "psnr_v": 46.03
+        },
+        {
+            "n": 180,
+            "mse_avg": 4.04,
+            "mse_y": 5.3,
+            "mse_u": 1.48,
+            "mse_v": 1.6,
+            "psnr_avg": 42.06,
+            "psnr_y": 40.89,
+            "psnr_u": 46.43,
+            "psnr_v": 46.08
+        },
+        {
+            "n": 181,
+            "mse_avg": 3.23,
+            "mse_y": 4.14,
+            "mse_u": 1.34,
+            "mse_v": 1.51,
+            "psnr_avg": 43.03,
+            "psnr_y": 41.96,
+            "psnr_u": 46.85,
+            "psnr_v": 46.33
+        },
+        {
+            "n": 182,
+            "mse_avg": 3.74,
+            "mse_y": 4.87,
+            "mse_u": 1.42,
+            "mse_v": 1.53,
+            "psnr_avg": 42.4,
+            "psnr_y": 41.25,
+            "psnr_u": 46.6,
+            "psnr_v": 46.27
+        },
+        {
+            "n": 183,
+            "mse_avg": 3.04,
+            "mse_y": 3.9,
+            "mse_u": 1.24,
+            "mse_v": 1.38,
+            "psnr_avg": 43.31,
+            "psnr_y": 42.22,
+            "psnr_u": 47.19,
+            "psnr_v": 46.72
+        },
+        {
+            "n": 184,
+            "mse_avg": 3.7,
+            "mse_y": 4.81,
+            "mse_u": 1.42,
+            "mse_v": 1.57,
+            "psnr_avg": 42.45,
+            "psnr_y": 41.31,
+            "psnr_u": 46.59,
+            "psnr_v": 46.18
+        },
+        {
+            "n": 185,
+            "mse_avg": 3.05,
+            "mse_y": 3.91,
+            "mse_u": 1.29,
+            "mse_v": 1.39,
+            "psnr_avg": 43.28,
+            "psnr_y": 42.21,
+            "psnr_u": 47.01,
+            "psnr_v": 46.7
+        },
+        {
+            "n": 186,
+            "mse_avg": 2.58,
+            "mse_y": 3.27,
+            "mse_u": 1.15,
+            "mse_v": 1.24,
+            "psnr_avg": 44.02,
+            "psnr_y": 42.99,
+            "psnr_u": 47.53,
+            "psnr_v": 47.2
+        },
+        {
+            "n": 187,
+            "mse_avg": 3.43,
+            "mse_y": 4.43,
+            "mse_u": 1.38,
+            "mse_v": 1.49,
+            "psnr_avg": 42.78,
+            "psnr_y": 41.66,
+            "psnr_u": 46.74,
+            "psnr_v": 46.41
+        },
+        {
+            "n": 188,
+            "mse_avg": 2.45,
+            "mse_y": 3.09,
+            "mse_u": 1.1,
+            "mse_v": 1.24,
+            "psnr_avg": 44.24,
+            "psnr_y": 43.23,
+            "psnr_u": 47.73,
+            "psnr_v": 47.2
+        },
+        {
+            "n": 189,
+            "mse_avg": 2.86,
+            "mse_y": 3.63,
+            "mse_u": 1.24,
+            "mse_v": 1.39,
+            "psnr_avg": 43.57,
+            "psnr_y": 42.53,
+            "psnr_u": 47.19,
+            "psnr_v": 46.69
+        },
+        {
+            "n": 190,
+            "mse_avg": 2.82,
+            "mse_y": 3.61,
+            "mse_u": 1.17,
+            "mse_v": 1.3,
+            "psnr_avg": 43.63,
+            "psnr_y": 42.55,
+            "psnr_u": 47.45,
+            "psnr_v": 46.99
+        },
+        {
+            "n": 191,
+            "mse_avg": 2.85,
+            "mse_y": 3.67,
+            "mse_u": 1.15,
+            "mse_v": 1.29,
+            "psnr_avg": 43.58,
+            "psnr_y": 42.49,
+            "psnr_u": 47.51,
+            "psnr_v": 47.04
+        },
+        {
+            "n": 192,
+            "mse_avg": 2.84,
+            "mse_y": 3.66,
+            "mse_u": 1.11,
+            "mse_v": 1.27,
+            "psnr_avg": 43.61,
+            "psnr_y": 42.5,
+            "psnr_u": 47.66,
+            "psnr_v": 47.11
+        },
+        {
+            "n": 193,
+            "mse_avg": 1.34,
+            "mse_y": 1.66,
+            "mse_u": 0.63,
+            "mse_v": 0.73,
+            "psnr_avg": 46.87,
+            "psnr_y": 45.92,
+            "psnr_u": 50.15,
+            "psnr_v": 49.48
+        },
+        {
+            "n": 194,
+            "mse_avg": 2.41,
+            "mse_y": 3.05,
+            "mse_u": 1.05,
+            "mse_v": 1.21,
+            "psnr_avg": 44.31,
+            "psnr_y": 43.29,
+            "psnr_u": 47.92,
+            "psnr_v": 47.31
+        },
+        {
+            "n": 195,
+            "mse_avg": 2.33,
+            "mse_y": 2.97,
+            "mse_u": 1.0,
+            "mse_v": 1.11,
+            "psnr_avg": 44.46,
+            "psnr_y": 43.41,
+            "psnr_u": 48.14,
+            "psnr_v": 47.67
+        },
+        {
+            "n": 196,
+            "mse_avg": 2.74,
+            "mse_y": 3.5,
+            "mse_u": 1.14,
+            "mse_v": 1.3,
+            "psnr_avg": 43.75,
+            "psnr_y": 42.69,
+            "psnr_u": 47.55,
+            "psnr_v": 46.99
+        },
+        {
+            "n": 197,
+            "mse_avg": 1.97,
+            "mse_y": 2.44,
+            "mse_u": 0.96,
+            "mse_v": 1.08,
+            "psnr_avg": 45.2,
+            "psnr_y": 44.26,
+            "psnr_u": 48.29,
+            "psnr_v": 47.81
+        },
+        {
+            "n": 198,
+            "mse_avg": 2.38,
+            "mse_y": 3.01,
+            "mse_u": 1.05,
+            "mse_v": 1.16,
+            "psnr_avg": 44.37,
+            "psnr_y": 43.34,
+            "psnr_u": 47.9,
+            "psnr_v": 47.48
+        },
+        {
+            "n": 199,
+            "mse_avg": 2.28,
+            "mse_y": 2.87,
+            "mse_u": 1.03,
+            "mse_v": 1.19,
+            "psnr_avg": 44.54,
+            "psnr_y": 43.55,
+            "psnr_u": 47.99,
+            "psnr_v": 47.37
+        },
+        {
+            "n": 200,
+            "mse_avg": 2.27,
+            "mse_y": 2.85,
+            "mse_u": 1.04,
+            "mse_v": 1.15,
+            "psnr_avg": 44.58,
+            "psnr_y": 43.58,
+            "psnr_u": 47.95,
+            "psnr_v": 47.52
+        },
+        {
+            "n": 201,
+            "mse_avg": 1.53,
+            "mse_y": 1.88,
+            "mse_u": 0.81,
+            "mse_v": 0.86,
+            "psnr_avg": 46.28,
+            "psnr_y": 45.39,
+            "psnr_u": 49.02,
+            "psnr_v": 48.76
+        },
+        {
+            "n": 202,
+            "mse_avg": 2.27,
+            "mse_y": 2.88,
+            "mse_u": 1.04,
+            "mse_v": 1.1,
+            "psnr_avg": 44.56,
+            "psnr_y": 43.54,
+            "psnr_u": 47.98,
+            "psnr_v": 47.72
+        },
+        {
+            "n": 203,
+            "mse_avg": 1.98,
+            "mse_y": 2.47,
+            "mse_u": 0.97,
+            "mse_v": 1.01,
+            "psnr_avg": 45.17,
+            "psnr_y": 44.2,
+            "psnr_u": 48.26,
+            "psnr_v": 48.09
+        },
+        {
+            "n": 204,
+            "mse_avg": 1.72,
+            "mse_y": 2.1,
+            "mse_u": 0.93,
+            "mse_v": 0.99,
+            "psnr_avg": 45.77,
+            "psnr_y": 44.9,
+            "psnr_u": 48.47,
+            "psnr_v": 48.18
+        },
+        {
+            "n": 205,
+            "mse_avg": 2.23,
+            "mse_y": 2.83,
+            "mse_u": 0.99,
+            "mse_v": 1.09,
+            "psnr_avg": 44.64,
+            "psnr_y": 43.61,
+            "psnr_u": 48.15,
+            "psnr_v": 47.75
+        },
+        {
+            "n": 206,
+            "mse_avg": 1.5,
+            "mse_y": 1.83,
+            "mse_u": 0.81,
+            "mse_v": 0.89,
+            "psnr_avg": 46.36,
+            "psnr_y": 45.51,
+            "psnr_u": 49.03,
+            "psnr_v": 48.64
+        },
+        {
+            "n": 207,
+            "mse_avg": 1.77,
+            "mse_y": 2.16,
+            "mse_u": 0.95,
+            "mse_v": 1.05,
+            "psnr_avg": 45.64,
+            "psnr_y": 44.79,
+            "psnr_u": 48.36,
+            "psnr_v": 47.93
+        },
+        {
+            "n": 208,
+            "mse_avg": 1.63,
+            "mse_y": 1.97,
+            "mse_u": 0.91,
+            "mse_v": 0.98,
+            "psnr_avg": 46.01,
+            "psnr_y": 45.19,
+            "psnr_u": 48.56,
+            "psnr_v": 48.21
+        },
+        {
+            "n": 209,
+            "mse_avg": 1.84,
+            "mse_y": 2.27,
+            "mse_u": 0.93,
+            "mse_v": 0.99,
+            "psnr_avg": 45.49,
+            "psnr_y": 44.56,
+            "psnr_u": 48.47,
+            "psnr_v": 48.17
+        },
+        {
+            "n": 210,
+            "mse_avg": 1.85,
+            "mse_y": 2.29,
+            "mse_u": 0.94,
+            "mse_v": 0.98,
+            "psnr_avg": 45.46,
+            "psnr_y": 44.53,
+            "psnr_u": 48.38,
+            "psnr_v": 48.21
+        },
+        {
+            "n": 211,
+            "mse_avg": 1.23,
+            "mse_y": 1.46,
+            "mse_u": 0.75,
+            "mse_v": 0.78,
+            "psnr_avg": 47.22,
+            "psnr_y": 46.47,
+            "psnr_u": 49.37,
+            "psnr_v": 49.2
+        },
+        {
+            "n": 212,
+            "mse_avg": 1.43,
+            "mse_y": 1.71,
+            "mse_u": 0.83,
+            "mse_v": 0.89,
+            "psnr_avg": 46.58,
+            "psnr_y": 45.8,
+            "psnr_u": 48.93,
+            "psnr_v": 48.62
+        },
+        {
+            "n": 213,
+            "mse_avg": 1.58,
+            "mse_y": 1.91,
+            "mse_u": 0.88,
+            "mse_v": 0.96,
+            "psnr_avg": 46.16,
+            "psnr_y": 45.33,
+            "psnr_u": 48.71,
+            "psnr_v": 48.32
+        },
+        {
+            "n": 214,
+            "mse_avg": 1.66,
+            "mse_y": 2.04,
+            "mse_u": 0.88,
+            "mse_v": 0.94,
+            "psnr_avg": 45.92,
+            "psnr_y": 45.03,
+            "psnr_u": 48.68,
+            "psnr_v": 48.42
+        },
+        {
+            "n": 215,
+            "mse_avg": 1.27,
+            "mse_y": 1.5,
+            "mse_u": 0.77,
+            "mse_v": 0.83,
+            "psnr_avg": 47.1,
+            "psnr_y": 46.36,
+            "psnr_u": 49.28,
+            "psnr_v": 48.92
+        },
+        {
+            "n": 216,
+            "mse_avg": 1.63,
+            "mse_y": 2.02,
+            "mse_u": 0.84,
+            "mse_v": 0.82,
+            "psnr_avg": 46.02,
+            "psnr_y": 45.07,
+            "psnr_u": 48.88,
+            "psnr_v": 49.0
+        },
+        {
+            "n": 217,
+            "mse_avg": 1.59,
+            "mse_y": 1.91,
+            "mse_u": 0.89,
+            "mse_v": 1.0,
+            "psnr_avg": 46.12,
+            "psnr_y": 45.32,
+            "psnr_u": 48.64,
+            "psnr_v": 48.11
+        },
+        {
+            "n": 218,
+            "mse_avg": 1.33,
+            "mse_y": 1.59,
+            "mse_u": 0.82,
+            "mse_v": 0.82,
+            "psnr_avg": 46.89,
+            "psnr_y": 46.13,
+            "psnr_u": 49.01,
+            "psnr_v": 48.99
+        },
+        {
+            "n": 219,
+            "mse_avg": 1.46,
+            "mse_y": 1.78,
+            "mse_u": 0.81,
+            "mse_v": 0.82,
+            "psnr_avg": 46.49,
+            "psnr_y": 45.62,
+            "psnr_u": 49.02,
+            "psnr_v": 49.02
+        },
+        {
+            "n": 220,
+            "mse_avg": 1.29,
+            "mse_y": 1.54,
+            "mse_u": 0.78,
+            "mse_v": 0.84,
+            "psnr_avg": 47.01,
+            "psnr_y": 46.26,
+            "psnr_u": 49.22,
+            "psnr_v": 48.9
+        },
+        {
+            "n": 221,
+            "mse_avg": 1.27,
+            "mse_y": 1.49,
+            "mse_u": 0.8,
+            "mse_v": 0.84,
+            "psnr_avg": 47.11,
+            "psnr_y": 46.41,
+            "psnr_u": 49.09,
+            "psnr_v": 48.87
+        },
+        {
+            "n": 222,
+            "mse_avg": 1.08,
+            "mse_y": 1.27,
+            "mse_u": 0.69,
+            "mse_v": 0.72,
+            "psnr_avg": 47.78,
+            "psnr_y": 47.09,
+            "psnr_u": 49.71,
+            "psnr_v": 49.55
+        },
+        {
+            "n": 223,
+            "mse_avg": 1.6,
+            "mse_y": 1.93,
+            "mse_u": 0.89,
+            "mse_v": 1.02,
+            "psnr_avg": 46.08,
+            "psnr_y": 45.28,
+            "psnr_u": 48.62,
+            "psnr_v": 48.04
+        },
+        {
+            "n": 224,
+            "mse_avg": 1.35,
+            "mse_y": 1.64,
+            "mse_u": 0.76,
+            "mse_v": 0.79,
+            "psnr_avg": 46.82,
+            "psnr_y": 45.98,
+            "psnr_u": 49.34,
+            "psnr_v": 49.17
+        },
+        {
+            "n": 225,
+            "mse_avg": 1.16,
+            "mse_y": 1.36,
+            "mse_u": 0.73,
+            "mse_v": 0.76,
+            "psnr_avg": 47.5,
+            "psnr_y": 46.79,
+            "psnr_u": 49.5,
+            "psnr_v": 49.32
+        },
+        {
+            "n": 226,
+            "mse_avg": 1.03,
+            "mse_y": 1.22,
+            "mse_u": 0.66,
+            "mse_v": 0.68,
+            "psnr_avg": 47.99,
+            "psnr_y": 47.28,
+            "psnr_u": 49.93,
+            "psnr_v": 49.8
+        },
+        {
+            "n": 227,
+            "mse_avg": 3.78,
+            "mse_y": 4.57,
+            "mse_u": 1.82,
+            "mse_v": 2.54,
+            "psnr_avg": 42.36,
+            "psnr_y": 41.53,
+            "psnr_u": 45.54,
+            "psnr_v": 44.08
+        },
+        {
+            "n": 228,
+            "mse_avg": 3.86,
+            "mse_y": 4.82,
+            "mse_u": 1.62,
+            "mse_v": 2.24,
+            "psnr_avg": 42.27,
+            "psnr_y": 41.3,
+            "psnr_u": 46.03,
+            "psnr_v": 44.63
+        },
+        {
+            "n": 229,
+            "mse_avg": 3.68,
+            "mse_y": 4.71,
+            "mse_u": 1.37,
+            "mse_v": 1.86,
+            "psnr_avg": 42.47,
+            "psnr_y": 41.4,
+            "psnr_u": 46.77,
+            "psnr_v": 45.43
+        },
+        {
+            "n": 230,
+            "mse_avg": 4.31,
+            "mse_y": 5.51,
+            "mse_u": 1.58,
+            "mse_v": 2.23,
+            "psnr_avg": 41.79,
+            "psnr_y": 40.72,
+            "psnr_u": 46.15,
+            "psnr_v": 44.65
+        },
+        {
+            "n": 231,
+            "mse_avg": 4.03,
+            "mse_y": 5.24,
+            "mse_u": 1.38,
+            "mse_v": 1.89,
+            "psnr_avg": 42.07,
+            "psnr_y": 40.94,
+            "psnr_u": 46.74,
+            "psnr_v": 45.36
+        },
+        {
+            "n": 232,
+            "mse_avg": 4.17,
+            "mse_y": 5.3,
+            "mse_u": 1.59,
+            "mse_v": 2.23,
+            "psnr_avg": 41.93,
+            "psnr_y": 40.88,
+            "psnr_u": 46.11,
+            "psnr_v": 44.64
+        },
+        {
+            "n": 233,
+            "mse_avg": 4.21,
+            "mse_y": 5.49,
+            "mse_u": 1.37,
+            "mse_v": 1.9,
+            "psnr_avg": 41.89,
+            "psnr_y": 40.73,
+            "psnr_u": 46.75,
+            "psnr_v": 45.35
+        },
+        {
+            "n": 234,
+            "mse_avg": 4.89,
+            "mse_y": 6.33,
+            "mse_u": 1.67,
+            "mse_v": 2.38,
+            "psnr_avg": 41.23,
+            "psnr_y": 40.12,
+            "psnr_u": 45.91,
+            "psnr_v": 44.37
+        },
+        {
+            "n": 235,
+            "mse_avg": 4.36,
+            "mse_y": 5.65,
+            "mse_u": 1.49,
+            "mse_v": 2.06,
+            "psnr_avg": 41.74,
+            "psnr_y": 40.61,
+            "psnr_u": 46.4,
+            "psnr_v": 44.99
+        },
+        {
+            "n": 236,
+            "mse_avg": 4.98,
+            "mse_y": 6.46,
+            "mse_u": 1.69,
+            "mse_v": 2.38,
+            "psnr_avg": 41.16,
+            "psnr_y": 40.03,
+            "psnr_u": 45.86,
+            "psnr_v": 44.37
+        },
+        {
+            "n": 237,
+            "mse_avg": 4.08,
+            "mse_y": 5.28,
+            "mse_u": 1.41,
+            "mse_v": 1.95,
+            "psnr_avg": 42.02,
+            "psnr_y": 40.9,
+            "psnr_u": 46.63,
+            "psnr_v": 45.24
+        },
+        {
+            "n": 238,
+            "mse_avg": 4.68,
+            "mse_y": 6.04,
+            "mse_u": 1.61,
+            "mse_v": 2.29,
+            "psnr_avg": 41.43,
+            "psnr_y": 40.32,
+            "psnr_u": 46.05,
+            "psnr_v": 44.54
+        },
+        {
+            "n": 239,
+            "mse_avg": 3.4,
+            "mse_y": 4.29,
+            "mse_u": 1.34,
+            "mse_v": 1.88,
+            "psnr_avg": 42.82,
+            "psnr_y": 41.81,
+            "psnr_u": 46.86,
+            "psnr_v": 45.38
+        },
+        {
+            "n": 240,
+            "mse_avg": 4.12,
+            "mse_y": 5.05,
+            "mse_u": 1.85,
+            "mse_v": 2.64,
+            "psnr_avg": 41.98,
+            "psnr_y": 41.1,
+            "psnr_u": 45.45,
+            "psnr_v": 43.91
+        },
+        {
+            "n": 241,
+            "mse_avg": 3.41,
+            "mse_y": 4.25,
+            "mse_u": 1.45,
+            "mse_v": 1.98,
+            "psnr_avg": 42.81,
+            "psnr_y": 41.84,
+            "psnr_u": 46.52,
+            "psnr_v": 45.17
+        },
+        {
+            "n": 242,
+            "mse_avg": 9.28,
+            "mse_y": 12.85,
+            "mse_u": 1.83,
+            "mse_v": 2.47,
+            "psnr_avg": 38.46,
+            "psnr_y": 37.04,
+            "psnr_u": 45.51,
+            "psnr_v": 44.21
+        }
+    ],
+    "ssim": [
+        {
+            "n": 1,
+            "ssim_y": 0.963,
+            "ssim_u": 0.981,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 2,
+            "ssim_y": 0.942,
+            "ssim_u": 0.975,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 3,
+            "ssim_y": 0.945,
+            "ssim_u": 0.979,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 4,
+            "ssim_y": 0.925,
+            "ssim_u": 0.972,
+            "ssim_v": 0.962,
+            "ssim_avg": 0.939
+        },
+        {
+            "n": 5,
+            "ssim_y": 0.931,
+            "ssim_u": 0.976,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.945
+        },
+        {
+            "n": 6,
+            "ssim_y": 0.921,
+            "ssim_u": 0.971,
+            "ssim_v": 0.963,
+            "ssim_avg": 0.936
+        },
+        {
+            "n": 7,
+            "ssim_y": 0.927,
+            "ssim_u": 0.976,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.942
+        },
+        {
+            "n": 8,
+            "ssim_y": 0.921,
+            "ssim_u": 0.972,
+            "ssim_v": 0.965,
+            "ssim_avg": 0.937
+        },
+        {
+            "n": 9,
+            "ssim_y": 0.928,
+            "ssim_u": 0.976,
+            "ssim_v": 0.971,
+            "ssim_avg": 0.944
+        },
+        {
+            "n": 10,
+            "ssim_y": 0.918,
+            "ssim_u": 0.971,
+            "ssim_v": 0.966,
+            "ssim_avg": 0.935
+        },
+        {
+            "n": 11,
+            "ssim_y": 0.932,
+            "ssim_u": 0.977,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.946
+        },
+        {
+            "n": 12,
+            "ssim_y": 0.924,
+            "ssim_u": 0.973,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.939
+        },
+        {
+            "n": 13,
+            "ssim_y": 0.942,
+            "ssim_u": 0.978,
+            "ssim_v": 0.974,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 14,
+            "ssim_y": 0.926,
+            "ssim_u": 0.974,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.941
+        },
+        {
+            "n": 15,
+            "ssim_y": 0.938,
+            "ssim_u": 0.978,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 16,
+            "ssim_y": 0.932,
+            "ssim_u": 0.974,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.945
+        },
+        {
+            "n": 17,
+            "ssim_y": 0.947,
+            "ssim_u": 0.975,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 18,
+            "ssim_y": 0.962,
+            "ssim_u": 0.982,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 19,
+            "ssim_y": 0.946,
+            "ssim_u": 0.978,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 20,
+            "ssim_y": 0.953,
+            "ssim_u": 0.981,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.962
+        },
+        {
+            "n": 21,
+            "ssim_y": 0.944,
+            "ssim_u": 0.976,
+            "ssim_v": 0.97,
+            "ssim_avg": 0.953
+        },
+        {
+            "n": 22,
+            "ssim_y": 0.951,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 23,
+            "ssim_y": 0.95,
+            "ssim_u": 0.977,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 24,
+            "ssim_y": 0.949,
+            "ssim_u": 0.98,
+            "ssim_v": 0.974,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 25,
+            "ssim_y": 0.941,
+            "ssim_u": 0.975,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 26,
+            "ssim_y": 0.951,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 27,
+            "ssim_y": 0.938,
+            "ssim_u": 0.975,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 28,
+            "ssim_y": 0.956,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.963
+        },
+        {
+            "n": 29,
+            "ssim_y": 0.938,
+            "ssim_u": 0.975,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 30,
+            "ssim_y": 0.957,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 31,
+            "ssim_y": 0.942,
+            "ssim_u": 0.975,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 32,
+            "ssim_y": 0.957,
+            "ssim_u": 0.98,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 33,
+            "ssim_y": 0.942,
+            "ssim_u": 0.975,
+            "ssim_v": 0.968,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 34,
+            "ssim_y": 0.943,
+            "ssim_u": 0.976,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.953
+        },
+        {
+            "n": 35,
+            "ssim_y": 0.953,
+            "ssim_u": 0.974,
+            "ssim_v": 0.966,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 36,
+            "ssim_y": 0.965,
+            "ssim_u": 0.981,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 37,
+            "ssim_y": 0.953,
+            "ssim_u": 0.977,
+            "ssim_v": 0.971,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 38,
+            "ssim_y": 0.963,
+            "ssim_u": 0.981,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 39,
+            "ssim_y": 0.953,
+            "ssim_u": 0.978,
+            "ssim_v": 0.971,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 40,
+            "ssim_y": 0.96,
+            "ssim_u": 0.981,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 41,
+            "ssim_y": 0.952,
+            "ssim_u": 0.978,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 42,
+            "ssim_y": 0.956,
+            "ssim_u": 0.979,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.962
+        },
+        {
+            "n": 43,
+            "ssim_y": 0.949,
+            "ssim_u": 0.977,
+            "ssim_v": 0.97,
+            "ssim_avg": 0.957
+        },
+        {
+            "n": 44,
+            "ssim_y": 0.958,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 45,
+            "ssim_y": 0.935,
+            "ssim_u": 0.974,
+            "ssim_v": 0.966,
+            "ssim_avg": 0.947
+        },
+        {
+            "n": 46,
+            "ssim_y": 0.945,
+            "ssim_u": 0.978,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 47,
+            "ssim_y": 0.959,
+            "ssim_u": 0.983,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 48,
+            "ssim_y": 0.948,
+            "ssim_u": 0.98,
+            "ssim_v": 0.974,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 49,
+            "ssim_y": 0.962,
+            "ssim_u": 0.983,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 50,
+            "ssim_y": 0.937,
+            "ssim_u": 0.976,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.948
+        },
+        {
+            "n": 51,
+            "ssim_y": 0.944,
+            "ssim_u": 0.979,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 52,
+            "ssim_y": 0.957,
+            "ssim_u": 0.982,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 53,
+            "ssim_y": 0.959,
+            "ssim_u": 0.98,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 54,
+            "ssim_y": 0.949,
+            "ssim_u": 0.98,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 55,
+            "ssim_y": 0.94,
+            "ssim_u": 0.975,
+            "ssim_v": 0.966,
+            "ssim_avg": 0.95
+        },
+        {
+            "n": 56,
+            "ssim_y": 0.952,
+            "ssim_u": 0.979,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 57,
+            "ssim_y": 0.946,
+            "ssim_u": 0.975,
+            "ssim_v": 0.967,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 58,
+            "ssim_y": 0.956,
+            "ssim_u": 0.978,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.962
+        },
+        {
+            "n": 59,
+            "ssim_y": 0.95,
+            "ssim_u": 0.974,
+            "ssim_v": 0.969,
+            "ssim_avg": 0.957
+        },
+        {
+            "n": 60,
+            "ssim_y": 0.953,
+            "ssim_u": 0.976,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 61,
+            "ssim_y": 0.961,
+            "ssim_u": 0.981,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 62,
+            "ssim_y": 0.953,
+            "ssim_u": 0.975,
+            "ssim_v": 0.97,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 63,
+            "ssim_y": 0.96,
+            "ssim_u": 0.978,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 64,
+            "ssim_y": 0.962,
+            "ssim_u": 0.98,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 65,
+            "ssim_y": 0.959,
+            "ssim_u": 0.976,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 66,
+            "ssim_y": 0.955,
+            "ssim_u": 0.976,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.962
+        },
+        {
+            "n": 67,
+            "ssim_y": 0.965,
+            "ssim_u": 0.979,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 68,
+            "ssim_y": 0.961,
+            "ssim_u": 0.978,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 69,
+            "ssim_y": 0.966,
+            "ssim_u": 0.976,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 70,
+            "ssim_y": 0.959,
+            "ssim_u": 0.976,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 71,
+            "ssim_y": 0.966,
+            "ssim_u": 0.979,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 72,
+            "ssim_y": 0.958,
+            "ssim_u": 0.974,
+            "ssim_v": 0.97,
+            "ssim_avg": 0.963
+        },
+        {
+            "n": 73,
+            "ssim_y": 0.963,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 74,
+            "ssim_y": 0.965,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 75,
+            "ssim_y": 0.959,
+            "ssim_u": 0.976,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 76,
+            "ssim_y": 0.969,
+            "ssim_u": 0.98,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.972
+        },
+        {
+            "n": 77,
+            "ssim_y": 0.961,
+            "ssim_u": 0.975,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 78,
+            "ssim_y": 0.964,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 79,
+            "ssim_y": 0.967,
+            "ssim_u": 0.979,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.971
+        },
+        {
+            "n": 80,
+            "ssim_y": 0.963,
+            "ssim_u": 0.978,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 81,
+            "ssim_y": 0.971,
+            "ssim_u": 0.983,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 82,
+            "ssim_y": 0.966,
+            "ssim_u": 0.977,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 83,
+            "ssim_y": 0.966,
+            "ssim_u": 0.978,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 84,
+            "ssim_y": 0.968,
+            "ssim_u": 0.978,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.971
+        },
+        {
+            "n": 85,
+            "ssim_y": 0.967,
+            "ssim_u": 0.977,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 86,
+            "ssim_y": 0.977,
+            "ssim_u": 0.983,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 87,
+            "ssim_y": 0.97,
+            "ssim_u": 0.977,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.972
+        },
+        {
+            "n": 88,
+            "ssim_y": 0.973,
+            "ssim_u": 0.979,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 89,
+            "ssim_y": 0.973,
+            "ssim_u": 0.982,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.976
+        },
+        {
+            "n": 90,
+            "ssim_y": 0.976,
+            "ssim_u": 0.982,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 91,
+            "ssim_y": 0.973,
+            "ssim_u": 0.981,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.976
+        },
+        {
+            "n": 92,
+            "ssim_y": 0.974,
+            "ssim_u": 0.978,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.976
+        },
+        {
+            "n": 93,
+            "ssim_y": 0.973,
+            "ssim_u": 0.979,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 94,
+            "ssim_y": 0.976,
+            "ssim_u": 0.982,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 95,
+            "ssim_y": 0.975,
+            "ssim_u": 0.982,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.977
+        },
+        {
+            "n": 96,
+            "ssim_y": 0.976,
+            "ssim_u": 0.985,
+            "ssim_v": 0.985,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 97,
+            "ssim_y": 0.981,
+            "ssim_u": 0.986,
+            "ssim_v": 0.986,
+            "ssim_avg": 0.982
+        },
+        {
+            "n": 98,
+            "ssim_y": 0.975,
+            "ssim_u": 0.981,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.977
+        },
+        {
+            "n": 99,
+            "ssim_y": 0.977,
+            "ssim_u": 0.982,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 100,
+            "ssim_y": 0.976,
+            "ssim_u": 0.982,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 101,
+            "ssim_y": 0.978,
+            "ssim_u": 0.986,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.981
+        },
+        {
+            "n": 102,
+            "ssim_y": 0.979,
+            "ssim_u": 0.985,
+            "ssim_v": 0.985,
+            "ssim_avg": 0.981
+        },
+        {
+            "n": 103,
+            "ssim_y": 0.977,
+            "ssim_u": 0.982,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 104,
+            "ssim_y": 0.976,
+            "ssim_u": 0.981,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 105,
+            "ssim_y": 0.976,
+            "ssim_u": 0.982,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 106,
+            "ssim_y": 0.976,
+            "ssim_u": 0.981,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 107,
+            "ssim_y": 0.98,
+            "ssim_u": 0.984,
+            "ssim_v": 0.984,
+            "ssim_avg": 0.981
+        },
+        {
+            "n": 108,
+            "ssim_y": 0.958,
+            "ssim_u": 0.98,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 109,
+            "ssim_y": 0.941,
+            "ssim_u": 0.985,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 110,
+            "ssim_y": 0.938,
+            "ssim_u": 0.983,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 111,
+            "ssim_y": 0.932,
+            "ssim_u": 0.975,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.946
+        },
+        {
+            "n": 112,
+            "ssim_y": 0.929,
+            "ssim_u": 0.977,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.945
+        },
+        {
+            "n": 113,
+            "ssim_y": 0.947,
+            "ssim_u": 0.984,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 114,
+            "ssim_y": 0.94,
+            "ssim_u": 0.986,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 115,
+            "ssim_y": 0.938,
+            "ssim_u": 0.983,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.953
+        },
+        {
+            "n": 116,
+            "ssim_y": 0.935,
+            "ssim_u": 0.977,
+            "ssim_v": 0.974,
+            "ssim_avg": 0.948
+        },
+        {
+            "n": 117,
+            "ssim_y": 0.937,
+            "ssim_u": 0.982,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 118,
+            "ssim_y": 0.944,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 119,
+            "ssim_y": 0.936,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 120,
+            "ssim_y": 0.939,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 121,
+            "ssim_y": 0.936,
+            "ssim_u": 0.978,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 122,
+            "ssim_y": 0.937,
+            "ssim_u": 0.981,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 123,
+            "ssim_y": 0.948,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 124,
+            "ssim_y": 0.94,
+            "ssim_u": 0.984,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 125,
+            "ssim_y": 0.93,
+            "ssim_u": 0.973,
+            "ssim_v": 0.971,
+            "ssim_avg": 0.944
+        },
+        {
+            "n": 126,
+            "ssim_y": 0.935,
+            "ssim_u": 0.978,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 127,
+            "ssim_y": 0.942,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 128,
+            "ssim_y": 0.946,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 129,
+            "ssim_y": 0.931,
+            "ssim_u": 0.975,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.945
+        },
+        {
+            "n": 130,
+            "ssim_y": 0.932,
+            "ssim_u": 0.978,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.947
+        },
+        {
+            "n": 131,
+            "ssim_y": 0.935,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.95
+        },
+        {
+            "n": 132,
+            "ssim_y": 0.934,
+            "ssim_u": 0.98,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 133,
+            "ssim_y": 0.948,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 134,
+            "ssim_y": 0.935,
+            "ssim_u": 0.981,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.95
+        },
+        {
+            "n": 135,
+            "ssim_y": 0.935,
+            "ssim_u": 0.976,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.948
+        },
+        {
+            "n": 136,
+            "ssim_y": 0.93,
+            "ssim_u": 0.977,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.945
+        },
+        {
+            "n": 137,
+            "ssim_y": 0.951,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.962
+        },
+        {
+            "n": 138,
+            "ssim_y": 0.941,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 139,
+            "ssim_y": 0.94,
+            "ssim_u": 0.978,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.952
+        },
+        {
+            "n": 140,
+            "ssim_y": 0.936,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 141,
+            "ssim_y": 0.944,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.957
+        },
+        {
+            "n": 142,
+            "ssim_y": 0.935,
+            "ssim_u": 0.98,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.949
+        },
+        {
+            "n": 143,
+            "ssim_y": 0.94,
+            "ssim_u": 0.982,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 144,
+            "ssim_y": 0.941,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 145,
+            "ssim_y": 0.958,
+            "ssim_u": 0.986,
+            "ssim_v": 0.984,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 146,
+            "ssim_y": 0.937,
+            "ssim_u": 0.982,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.951
+        },
+        {
+            "n": 147,
+            "ssim_y": 0.94,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 148,
+            "ssim_y": 0.942,
+            "ssim_u": 0.983,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.955
+        },
+        {
+            "n": 149,
+            "ssim_y": 0.94,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 150,
+            "ssim_y": 0.948,
+            "ssim_u": 0.983,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 151,
+            "ssim_y": 0.935,
+            "ssim_u": 0.979,
+            "ssim_v": 0.976,
+            "ssim_avg": 0.95
+        },
+        {
+            "n": 152,
+            "ssim_y": 0.941,
+            "ssim_u": 0.981,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 153,
+            "ssim_y": 0.941,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 154,
+            "ssim_y": 0.955,
+            "ssim_u": 0.985,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 155,
+            "ssim_y": 0.944,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 156,
+            "ssim_y": 0.944,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 157,
+            "ssim_y": 0.943,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 158,
+            "ssim_y": 0.941,
+            "ssim_u": 0.982,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 159,
+            "ssim_y": 0.955,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 160,
+            "ssim_y": 0.944,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.956
+        },
+        {
+            "n": 161,
+            "ssim_y": 0.941,
+            "ssim_u": 0.981,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.954
+        },
+        {
+            "n": 162,
+            "ssim_y": 0.946,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 163,
+            "ssim_y": 0.946,
+            "ssim_u": 0.983,
+            "ssim_v": 0.98,
+            "ssim_avg": 0.958
+        },
+        {
+            "n": 164,
+            "ssim_y": 0.953,
+            "ssim_u": 0.984,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.963
+        },
+        {
+            "n": 165,
+            "ssim_y": 0.947,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 166,
+            "ssim_y": 0.947,
+            "ssim_u": 0.983,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 167,
+            "ssim_y": 0.948,
+            "ssim_u": 0.983,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.959
+        },
+        {
+            "n": 168,
+            "ssim_y": 0.949,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 169,
+            "ssim_y": 0.956,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 170,
+            "ssim_y": 0.949,
+            "ssim_u": 0.984,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.961
+        },
+        {
+            "n": 171,
+            "ssim_y": 0.957,
+            "ssim_u": 0.984,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 172,
+            "ssim_y": 0.954,
+            "ssim_u": 0.985,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 173,
+            "ssim_y": 0.959,
+            "ssim_u": 0.986,
+            "ssim_v": 0.984,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 174,
+            "ssim_y": 0.954,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.964
+        },
+        {
+            "n": 175,
+            "ssim_y": 0.953,
+            "ssim_u": 0.984,
+            "ssim_v": 0.981,
+            "ssim_avg": 0.963
+        },
+        {
+            "n": 176,
+            "ssim_y": 0.958,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 177,
+            "ssim_y": 0.956,
+            "ssim_u": 0.985,
+            "ssim_v": 0.982,
+            "ssim_avg": 0.965
+        },
+        {
+            "n": 178,
+            "ssim_y": 0.961,
+            "ssim_u": 0.986,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 179,
+            "ssim_y": 0.958,
+            "ssim_u": 0.986,
+            "ssim_v": 0.983,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 180,
+            "ssim_y": 0.957,
+            "ssim_u": 0.986,
+            "ssim_v": 0.984,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 181,
+            "ssim_y": 0.963,
+            "ssim_u": 0.987,
+            "ssim_v": 0.985,
+            "ssim_avg": 0.971
+        },
+        {
+            "n": 182,
+            "ssim_y": 0.959,
+            "ssim_u": 0.986,
+            "ssim_v": 0.985,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 183,
+            "ssim_y": 0.964,
+            "ssim_u": 0.987,
+            "ssim_v": 0.986,
+            "ssim_avg": 0.971
+        },
+        {
+            "n": 184,
+            "ssim_y": 0.961,
+            "ssim_u": 0.986,
+            "ssim_v": 0.984,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 185,
+            "ssim_y": 0.965,
+            "ssim_u": 0.988,
+            "ssim_v": 0.986,
+            "ssim_avg": 0.973
+        },
+        {
+            "n": 186,
+            "ssim_y": 0.969,
+            "ssim_u": 0.989,
+            "ssim_v": 0.988,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 187,
+            "ssim_y": 0.962,
+            "ssim_u": 0.987,
+            "ssim_v": 0.985,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 188,
+            "ssim_y": 0.97,
+            "ssim_u": 0.989,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.976
+        },
+        {
+            "n": 189,
+            "ssim_y": 0.968,
+            "ssim_u": 0.988,
+            "ssim_v": 0.986,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 190,
+            "ssim_y": 0.968,
+            "ssim_u": 0.989,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 191,
+            "ssim_y": 0.966,
+            "ssim_u": 0.989,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.974
+        },
+        {
+            "n": 192,
+            "ssim_y": 0.967,
+            "ssim_u": 0.99,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.974
+        },
+        {
+            "n": 193,
+            "ssim_y": 0.981,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.985
+        },
+        {
+            "n": 194,
+            "ssim_y": 0.972,
+            "ssim_u": 0.99,
+            "ssim_v": 0.988,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 195,
+            "ssim_y": 0.971,
+            "ssim_u": 0.99,
+            "ssim_v": 0.988,
+            "ssim_avg": 0.977
+        },
+        {
+            "n": 196,
+            "ssim_y": 0.968,
+            "ssim_u": 0.989,
+            "ssim_v": 0.987,
+            "ssim_avg": 0.975
+        },
+        {
+            "n": 197,
+            "ssim_y": 0.976,
+            "ssim_u": 0.99,
+            "ssim_v": 0.989,
+            "ssim_avg": 0.98
+        },
+        {
+            "n": 198,
+            "ssim_y": 0.972,
+            "ssim_u": 0.99,
+            "ssim_v": 0.988,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 199,
+            "ssim_y": 0.973,
+            "ssim_u": 0.99,
+            "ssim_v": 0.988,
+            "ssim_avg": 0.978
+        },
+        {
+            "n": 200,
+            "ssim_y": 0.974,
+            "ssim_u": 0.99,
+            "ssim_v": 0.989,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 201,
+            "ssim_y": 0.98,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 202,
+            "ssim_y": 0.973,
+            "ssim_u": 0.99,
+            "ssim_v": 0.989,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 203,
+            "ssim_y": 0.976,
+            "ssim_u": 0.991,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.981
+        },
+        {
+            "n": 204,
+            "ssim_y": 0.98,
+            "ssim_u": 0.991,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.983
+        },
+        {
+            "n": 205,
+            "ssim_y": 0.974,
+            "ssim_u": 0.991,
+            "ssim_v": 0.989,
+            "ssim_avg": 0.979
+        },
+        {
+            "n": 206,
+            "ssim_y": 0.981,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 207,
+            "ssim_y": 0.979,
+            "ssim_u": 0.991,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.983
+        },
+        {
+            "n": 208,
+            "ssim_y": 0.981,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 209,
+            "ssim_y": 0.978,
+            "ssim_u": 0.991,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.982
+        },
+        {
+            "n": 210,
+            "ssim_y": 0.978,
+            "ssim_u": 0.991,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.982
+        },
+        {
+            "n": 211,
+            "ssim_y": 0.984,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.987
+        },
+        {
+            "n": 212,
+            "ssim_y": 0.983,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.986
+        },
+        {
+            "n": 213,
+            "ssim_y": 0.981,
+            "ssim_u": 0.992,
+            "ssim_v": 0.99,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 214,
+            "ssim_y": 0.98,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 215,
+            "ssim_y": 0.984,
+            "ssim_u": 0.992,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.987
+        },
+        {
+            "n": 216,
+            "ssim_y": 0.981,
+            "ssim_u": 0.992,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.984
+        },
+        {
+            "n": 217,
+            "ssim_y": 0.982,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.985
+        },
+        {
+            "n": 218,
+            "ssim_y": 0.984,
+            "ssim_u": 0.992,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.987
+        },
+        {
+            "n": 219,
+            "ssim_y": 0.983,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.986
+        },
+        {
+            "n": 220,
+            "ssim_y": 0.984,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.987
+        },
+        {
+            "n": 221,
+            "ssim_y": 0.986,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.988
+        },
+        {
+            "n": 222,
+            "ssim_y": 0.987,
+            "ssim_u": 0.994,
+            "ssim_v": 0.993,
+            "ssim_avg": 0.989
+        },
+        {
+            "n": 223,
+            "ssim_y": 0.982,
+            "ssim_u": 0.992,
+            "ssim_v": 0.991,
+            "ssim_avg": 0.985
+        },
+        {
+            "n": 224,
+            "ssim_y": 0.984,
+            "ssim_u": 0.993,
+            "ssim_v": 0.992,
+            "ssim_avg": 0.987
+        },
+        {
+            "n": 225,
+            "ssim_y": 0.987,
+            "ssim_u": 0.994,
+            "ssim_v": 0.993,
+            "ssim_avg": 0.989
+        },
+        {
+            "n": 226,
+            "ssim_y": 0.988,
+            "ssim_u": 0.994,
+            "ssim_v": 0.993,
+            "ssim_avg": 0.99
+        },
+        {
+            "n": 227,
+            "ssim_y": 0.968,
+            "ssim_u": 0.979,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.971
+        },
+        {
+            "n": 228,
+            "ssim_y": 0.965,
+            "ssim_u": 0.981,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 229,
+            "ssim_y": 0.968,
+            "ssim_u": 0.984,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.973
+        },
+        {
+            "n": 230,
+            "ssim_y": 0.96,
+            "ssim_u": 0.981,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 231,
+            "ssim_y": 0.964,
+            "ssim_u": 0.984,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.97
+        },
+        {
+            "n": 232,
+            "ssim_y": 0.959,
+            "ssim_u": 0.981,
+            "ssim_v": 0.975,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 233,
+            "ssim_y": 0.961,
+            "ssim_u": 0.984,
+            "ssim_v": 0.979,
+            "ssim_avg": 0.968
+        },
+        {
+            "n": 234,
+            "ssim_y": 0.953,
+            "ssim_u": 0.98,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.961
+        },
+        {
+            "n": 235,
+            "ssim_y": 0.959,
+            "ssim_u": 0.983,
+            "ssim_v": 0.977,
+            "ssim_avg": 0.966
+        },
+        {
+            "n": 236,
+            "ssim_y": 0.952,
+            "ssim_u": 0.98,
+            "ssim_v": 0.973,
+            "ssim_avg": 0.96
+        },
+        {
+            "n": 237,
+            "ssim_y": 0.96,
+            "ssim_u": 0.983,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.967
+        },
+        {
+            "n": 238,
+            "ssim_y": 0.954,
+            "ssim_u": 0.981,
+            "ssim_v": 0.974,
+            "ssim_avg": 0.961
+        },
+        {
+            "n": 239,
+            "ssim_y": 0.971,
+            "ssim_u": 0.984,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.974
+        },
+        {
+            "n": 240,
+            "ssim_y": 0.966,
+            "ssim_u": 0.979,
+            "ssim_v": 0.971,
+            "ssim_avg": 0.969
+        },
+        {
+            "n": 241,
+            "ssim_y": 0.971,
+            "ssim_u": 0.983,
+            "ssim_v": 0.978,
+            "ssim_avg": 0.974
+        },
+        {
+            "n": 242,
+            "ssim_y": 0.958,
+            "ssim_u": 0.979,
+            "ssim_v": 0.972,
+            "ssim_avg": 0.964
+        }
+    ],
+    "global": {
+        "psnr": {
+            "mse_avg": {
+                "average": 5.724,
+                "median": 4.94,
+                "stdev": 3.044,
+                "min": 1.03,
+                "max": 12.19
+            },
+            "mse_y": {
+                "average": 7.604,
+                "median": 6.17,
+                "stdev": 4.432,
+                "min": 1.22,
+                "max": 17.17
+            },
+            "mse_u": {
+                "average": 1.776,
+                "median": 1.815,
+                "stdev": 0.512,
+                "min": 0.63,
+                "max": 2.89
+            },
+            "mse_v": {
+                "average": 2.15,
+                "median": 2.09,
+                "stdev": 0.727,
+                "min": 0.68,
+                "max": 4.04
+            },
+            "psnr_avg": {
+                "average": 41.284,
+                "median": 41.195,
+                "stdev": 2.671,
+                "min": 37.27,
+                "max": 47.99
+            },
+            "psnr_y": {
+                "average": 40.185,
+                "median": 40.23,
+                "stdev": 2.898,
+                "min": 35.78,
+                "max": 47.28
+            },
+            "psnr_u": {
+                "average": 45.852,
+                "median": 45.55,
+                "stdev": 1.444,
+                "min": 43.53,
+                "max": 50.15
+            },
+            "psnr_v": {
+                "average": 45.1,
+                "median": 44.93,
+                "stdev": 1.69,
+                "min": 42.07,
+                "max": 49.8
+            }
+        },
+        "ssim": {
+            "ssim_y": {
+                "average": 0.956,
+                "median": 0.957,
+                "stdev": 0.016,
+                "min": 0.918,
+                "max": 0.988
+            },
+            "ssim_u": {
+                "average": 0.982,
+                "median": 0.982,
+                "stdev": 0.005,
+                "min": 0.971,
+                "max": 0.994
+            },
+            "ssim_v": {
+                "average": 0.979,
+                "median": 0.978,
+                "stdev": 0.007,
+                "min": 0.962,
+                "max": 0.993
+            },
+            "ssim_avg": {
+                "average": 0.964,
+                "median": 0.964,
+                "stdev": 0.012,
+                "min": 0.935,
+                "max": 0.99
+            }
+        }
+    },
+    "input_file_dist": "./tos_4k_10s_luminance_120/tos_4k_10s_luminance_120_4500k.mp4",
+    "input_file_ref": "/Users/minh/Documents/dash_videos/raw_videos/tos_4k_10s_luminance_120.mp4"
+}
